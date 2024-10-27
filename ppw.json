@@ -1,0 +1,801 @@
+[
+   {
+      "name": "Philip Johnson",
+      "year": 1979,
+      "winning_statement": "In recognition of 50 years of imagination and vitality embodied in a myriad of museums, theaters, libraries, houses, gardens, and corporate structures.",
+      "extended_winning_statement": "Philip Johnson's work spans several decades and includes a wide range of architectural styles and typologies. His ability to adapt and innovate across different contexts has left a lasting impact on modern architecture.",
+      "breaktharough_project": "Glass House",
+      "extended_critique_breakthrough_project": "Johnson's Glass House, built in 1949, is a masterpiece of modern architecture. It exemplifies the minimalist aesthetic and transparency that became hallmarks of his work. The Glass House's seamless integration with its natural surroundings creates a harmonious dialogue between architecture and landscape.",
+      "highest_budget_project": "Seagram Building",
+      "extended_critique_highest_budget_project": "The Seagram Building, completed in 1958, stands as one of the most iconic skyscrapers of the 20th century. Collaborating with Mies van der Rohe, Johnson helped create a structure that exemplified the International Style with its clean lines, use of glass and steel, and attention to detail.",
+      "personal_favorite_project": "AT&T Building",
+      "extended_critique_personal_favorite_project": "The AT&T Building, now known as the Sony Building, completed in 1984, marked a significant departure from the modernist principles Johnson had previously embraced. Its postmodern design, featuring a 'Chippendale' top, challenged architectural conventions and sparked widespread debate.",
+      "famous_quotes": [
+         "Architecture is the art of how to waste space.",
+         "I hate vacations. If you can build buildings, why sit on the beach?",
+         "All architecture is shelter, all great architecture is the design of space that contains, cuddles, exalts, or stimulates the persons in that space."
+      ]
+   },
+   {
+      "name": "Luis Barragán",
+      "year": 1980,
+      "winning_statement": "For his commitment to architecture as a sublime act of the poetic imagination.",
+      "extended_winning_statement": "Luis Barragán's work is characterized by its emotional power and serene beauty. His use of color, light, and texture creates spaces that resonate with a deep sense of tranquility and spiritual reflection.",
+      "breakthrough_project": "Casa Barragán",
+      "extended_critique_breakthrough_project": "Casa Barragán, built in 1948, is a UNESCO World Heritage site and a stunning example of Barragán's mastery of form, color, and light. The house's design seamlessly blends traditional Mexican architectural elements with modernist principles, creating a unique and timeless space.",
+      "highest_budget_project": "Torres de Satélite",
+      "extended_critique_highest_budget_project": "The Torres de Satélite, completed in 1958, are a series of monumental towers that serve as a landmark in Mexico City. Collaborating with sculptor Mathias Goeritz, Barragán designed these colorful, abstract structures to symbolize the city's growth and modernity.",
+      "personal_favorite_project": "Cuadra San Cristóbal",
+      "extended_critique_personal_favorite_project": "Cuadra San Cristóbal, built in 1968, is an equestrian estate that showcases Barragán's ability to create spaces that are both functional and poetic. The vibrant pink walls, reflective water features, and open spaces evoke a sense of serenity and connection to nature.",
+      "famous_quotes": [
+         "Any work of architecture which does not express serenity is a mistake.",
+         "I don't divide architecture, landscape and gardening; to me they are one.",
+         "In alarming situations, our responses are automatically geared towards trying to retain our composure."
+      ]
+   },
+   {
+      "name": "James Stirling",
+      "year": 1981,
+      "winning_statement": "For his ability to transcend the limits of technology, giving physical expression to human values.",
+      "extended_winning_statement": "James Stirling's work reflects a deep understanding of architectural history combined with a bold vision for the future. His buildings often challenge conventional forms and materials, resulting in innovative and thought-provoking designs.",
+      "breakthrough_project": "The Engineering Building at Leicester University",
+      "extended_critique_breakthrough_project": "The Engineering Building at Leicester University, completed in 1963, is celebrated for its innovative use of industrial materials and bold geometric forms. The building's design reflects Stirling's interest in modern technology and its potential to shape new architectural expressions.",
+      "highest_budget_project": "Neue Staatsgalerie",
+      "extended_critique_highest_budget_project": "The Neue Staatsgalerie in Stuttgart, completed in 1984, is one of Stirling's most acclaimed works. The museum's playful use of classical architectural elements, vibrant colors, and innovative spatial organization exemplifies his unique approach to postmodernism.",
+      "personal_favorite_project": "Seeley Historical Library",
+      "extended_critique_personal_favorite_project": "The Seeley Historical Library at Cambridge University, completed in 1968, demonstrates Stirling's ability to integrate contemporary design within a historic context. The library's functional layout and use of natural light create an inviting space for scholarship and study.",
+      "famous_quotes": [
+         "I'm interested in the ability of architecture to transcend its role as shelter to become something more meaningful.",
+         "Architecture is a social act and the material theater of human activity.",
+         "Every building is a prototype. No two are alike."
+      ]
+   },
+   {
+      "name": "Kevin Roche",
+      "year": 1982,
+      "winning_statement": "For his dedication to designing buildings that serve the people who use them.",
+      "extended_winning_statement": "Kevin Roche's architecture is characterized by its user-centric approach and adaptability to changing needs. His work often integrates landscape and building, creating environments that enhance the human experience.",
+      "breakthrough_project": "Ford Foundation Building",
+      "extended_critique_breakthrough_project": "The Ford Foundation Building, completed in 1967, is a groundbreaking example of environmentally conscious design. The building's central atrium garden provides a serene retreat within the urban environment, emphasizing the connection between nature and architecture.",
+      "highest_budget_project": "Metropolitan Museum of Art Expansion",
+      "extended_critique_highest_budget_project": "Roche's expansion of the Metropolitan Museum of Art, undertaken over several decades, reflects his sensitivity to the museum's historical context while providing modern amenities. The seamless integration of new and old elements enhances the visitor experience.",
+      "personal_favorite_project": "Knights of Columbus Building",
+      "extended_critique_personal_favorite_project": "The Knights of Columbus Building in New Haven, completed in 1969, showcases Roche's innovative use of prefabricated materials and modular construction. The building's distinctive silhouette and functional design make it a standout example of mid-20th-century modernism.",
+      "famous_quotes": [
+         "I don't build for architects; I build for people.",
+         "Architecture should be functional and timeless.",
+         "Buildings should serve a purpose beyond just aesthetics."
+      ]
+   },
+   {
+      "name": "Ieoh Ming Pei",
+      "year": 1983,
+      "winning_statement": "For his timeless and humane architecture, which has touched people around the world.",
+      "extended_winning_statement": "Ieoh Ming Pei's work is marked by its elegance, clarity, and sensitivity to context. His buildings often feature geometric precision and thoughtful integration with their surroundings, creating spaces that are both functional and inspiring.",
+      "breakthrough_project": "Louvre Pyramid",
+      "extended_critique_breakthrough_project": "The Louvre Pyramid, completed in 1989, is a bold and controversial addition to the historic Louvre Museum in Paris. Pei's design uses modern materials to create a transparent, light-filled entrance that enhances the visitor experience while respecting the museum's classical architecture.",
+      "highest_budget_project": "Bank of China Tower",
+      "extended_critique_highest_budget_project": "The Bank of China Tower in Hong Kong, completed in 1990, is one of Pei's most iconic skyscrapers. Its unique angular form and reflective glass façade make it a standout feature of the city's skyline, symbolizing modernity and progress.",
+      "personal_favorite_project": "National Gallery of Art East Building",
+      "extended_critique_personal_favorite_project": "The East Building of the National Gallery of Art in Washington, D.C., completed in 1978, exemplifies Pei's skill in creating spaces that are both monumental and inviting. The building's geometric design and use of natural light create an inspiring environment for the display of modern art.",
+      "famous_quotes": [
+         "Architecture is the art of making spaces where people live.",
+         "Success is a collection of problems solved.",
+         "A lasting architecture has to have roots."
+      ]
+   },
+   {
+      "name": "Richard Meier",
+      "year": 1984,
+      "winning_statement": "For his devotion to light and space in his designs.",
+      "extended_winning_statement": "Richard Meier's architecture is known for its clean lines, use of white, and meticulous attention to detail. His buildings often emphasize light and space, creating environments that are both serene and functional.",
+      "breakthrough_project": "Getty Center",
+      "extended_critique_breakthrough_project": "The Getty Center in Los Angeles, completed in 1997, is a sprawling complex that showcases Meier's mastery of light and space. The center's travertine-clad buildings and beautifully landscaped gardens create a tranquil setting for art and culture.",
+      "highest_budget_project": "High Museum of Art",
+      "extended_critique_highest_budget_project": "The High Museum of Art in Atlanta, completed in 1983, is a striking example of Meier's architectural vision. The museum's white façade and innovative use of natural light enhance the viewing experience and create a sense of openness.",
+      "personal_favorite_project": "Douglas House",
+      "extended_critique_personal_favorite_project": "The Douglas House in Harbor Springs, Michigan, completed in 1973, is one of Meier's most celebrated residential projects. Perched on a cliff overlooking Lake Michigan, the house's transparent walls and cantilevered design make it a stunning example of modernist architecture.",
+      "famous_quotes": [
+         "White is the most wonderful color because within it one can find every color of the rainbow.",
+         "Architecture has to do with the enclosure of space for human beings.",
+         "I want to create spaces that are both functional and inspiring."
+      ]
+   },
+   {
+      "name": "Hans Hollein",
+      "year": 1985,
+      "winning_statement": "For his profound and poetic use of form and space.",
+      "extended_winning_statement": "Hans Hollein's work spans architecture, art, and design, reflecting his belief that all forms of creative expression are interconnected. His buildings often feature bold, sculptural forms that challenge conventional ideas of space and function.",
+      "breakthrough_project": "Vienna Haas House",
+      "extended_critique_breakthrough_project": "The Vienna Haas House, completed in 1990, is a controversial yet iconic building in the heart of Vienna. Its reflective glass façade and unconventional design contrast sharply with the surrounding historic architecture, creating a dialogue between past and present.",
+      "highest_budget_project": "Abteiberg Museum",
+      "extended_critique_highest_budget_project": "The Abteiberg Museum in Mönchengladbach, Germany, completed in 1982, is celebrated for its innovative use of space and light. Hollein's design integrates art and architecture, creating an immersive environment for the display of contemporary art.",
+      "personal_favorite_project": "Retti Candle Shop",
+      "extended_critique_personal_favorite_project": "The Retti Candle Shop in Vienna, completed in 1965, is one of Hollein's earliest and most acclaimed works. The shop's sculptural façade and playful interior reflect his belief in the transformative power of architecture.",
+      "famous_quotes": [
+         "Everything is architecture.",
+         "I am neither for nor against technology. To me, it is not an issue.",
+         "Architecture is not just building, it is also an attitude."
+      ]
+   },
+   {
+      "name": "Gottfried Böhm",
+      "year": 1986,
+      "winning_statement": "For his commitment to creating buildings that are both functional and deeply humane.",
+      "extended_winning_statement": "Gottfried Böhm's architecture is known for its sculptural forms and emotional resonance. His buildings often draw inspiration from historical and cultural contexts, creating spaces that are both timeless and contemporary.",
+      "breakthrough_project": "Pilgrimage Church, Neviges",
+      "extended_critique_breakthrough_project": "The Pilgrimage Church in Neviges, completed in 1968, is a striking example of Böhm's ability to create spaces that inspire spiritual reflection. The church's dramatic concrete forms and intricate detailing create a sense of awe and reverence.",
+      "highest_budget_project": "Cologne Central Mosque",
+      "extended_critique_highest_budget_project": "The Cologne Central Mosque, completed in 2017, is one of Böhm's most ambitious projects. The mosque's contemporary design and symbolic use of light and space reflect his commitment to creating buildings that foster community and understanding.",
+      "personal_favorite_project": "Bensberg Town Hall",
+      "extended_critique_personal_favorite_project": "The Bensberg Town Hall, completed in 1969, showcases Böhm's innovative use of concrete and glass. The building's open, transparent design encourages civic engagement and reflects his belief in the social role of architecture.",
+      "famous_quotes": [
+         "Architecture has to do with the enclosure of space for human beings.",
+         "You have to have an idea of what you are going to do, but it should be a vague idea.",
+         "One must build within the spirit of the place."
+      ]
+   },
+   {
+      "name": "Kenzo Tange",
+      "year": 1987,
+      "winning_statement": "For his visionary and humane approach to modern architecture.",
+      "extended_winning_statement": "Kenzo Tange's architecture combines modernist principles with traditional Japanese aesthetics. His work often addresses social issues and urban planning, creating spaces that are both functional and meaningful.",
+      "breakthrough_project": "Yoyogi National Gymnasium",
+      "extended_critique_breakthrough_project": "The Yoyogi National Gymnasium, completed in 1964, is celebrated for its innovative suspended roof design and dynamic form. The gymnasium's fluid lines and structural ingenuity make it a landmark of modern architecture.",
+      "highest_budget_project": "Tokyo Metropolitan Government Building",
+      "extended_critique_highest_budget_project": "The Tokyo Metropolitan Government Building, completed in 1991, is one of Tange's most significant projects. The building's twin towers and futuristic design symbolize Tokyo's status as a global city and reflect Tange's vision for the future of urban architecture.",
+      "personal_favorite_project": "St. Mary's Cathedral",
+      "extended_critique_personal_favorite_project": "St. Mary's Cathedral in Tokyo, completed in 1964, exemplifies Tange's ability to blend modernist and traditional elements. The cathedral's soaring roof and minimalist design create a serene and contemplative space for worship.",
+      "famous_quotes": [
+         "There is a powerful need for symbolism, and that means the architecture must have something that appeals to the human heart.",
+         "Designs of purely arbitrary nature cannot be expected to last long.",
+         "The true purpose of architecture is to create spaces that embody a sense of belonging and comfort."
+      ]
+   },
+   {
+      "name": "Oscar Niemeyer",
+      "year": 1988,
+      "winning_statement": "For his dedication to the sensual possibilities of reinforced concrete.",
+      "extended_winning_statement": "Oscar Niemeyer's architecture is characterized by its bold, curvaceous forms and innovative use of reinforced concrete. His buildings often reflect his belief in the social and political power of architecture.",
+      "breakthrough_project": "Cathedral of Brasília",
+      "extended_critique_breakthrough_project": "The Cathedral of Brasília, completed in 1970, is a stunning example of Niemeyer's ability to create monumental, expressive forms. The cathedral's hyperboloid structure and use of stained glass create a luminous, uplifting space.",
+      "highest_budget_project": "Niterói Contemporary Art Museum",
+      "extended_critique_highest_budget_project": "The Niterói Contemporary Art Museum, completed in 1996, is one of Niemeyer's most iconic works. The building's futuristic design and dramatic cliffside location make it a symbol of modern Brazilian architecture.",
+      "personal_favorite_project": "Palácio da Alvorada",
+      "extended_critique_personal_favorite_project": "The Palácio da Alvorada, completed in 1958, is the official residence of the President of Brazil. Its sleek, modern design and use of water and light reflect Niemeyer's belief in the power of architecture to inspire and uplift.",
+      "famous_quotes": [
+         "Form follows beauty.",
+         "My work is not about 'form follows function,' but 'form follows beauty' or, even better, 'form follows feminine.'",
+         "Architecture is invention."
+      ]
+   },
+   {
+      "name": "Frank Gehry",
+      "year": 1989,
+      "winning_statement": "For his architectural designs that are intuitive, unpredictable, and playful.",
+      "extended_winning_statement": "Frank Gehry's work is known for its innovative use of materials and sculptural forms. His buildings often challenge conventional architectural norms, creating dynamic, expressive spaces that captivate and inspire.",
+      "breakthrough_project": "Guggenheim Museum Bilbao",
+      "extended_critique_breakthrough_project": "The Guggenheim Museum Bilbao, completed in 1997, is a masterpiece of contemporary architecture. Gehry's use of titanium panels and organic forms create a building that is both iconic and transformative, revitalizing the city of Bilbao.",
+      "highest_budget_project": "Walt Disney Concert Hall",
+      "extended_critique_highest_budget_project": "The Walt Disney Concert Hall in Los Angeles, completed in 2003, is celebrated for its sweeping curves and innovative use of stainless steel. The hall's acoustics and design make it a world-class venue for music and performance.",
+      "personal_favorite_project": "Dancing House",
+      "extended_critique_personal_favorite_project": "The Dancing House in Prague, completed in 1996, is a collaboration between Gehry and Czech architect Vlado Milunić. Its playful, deconstructivist design has made it a beloved landmark and a symbol of architectural innovation.",
+      "famous_quotes": [
+         "I don't know why people hire architects and then tell them what to do.",
+         "Architecture should speak of its time and place, but yearn for timelessness.",
+         "Your best work is your expression of yourself."
+      ]
+   },
+   {
+      "name": "Aldo Rossi",
+      "year": 1990,
+      "winning_statement": "For his commitment to design based on historical context.",
+      "extended_winning_statement": "Aldo Rossi's architecture is deeply rooted in the historical and cultural context of the places he works. His buildings often feature simple, geometric forms and a restrained use of materials, creating spaces that are both timeless and contemporary.",
+      "breakthrough_project": "San Cataldo Cemetery",
+      "extended_critique_breakthrough_project": "The San Cataldo Cemetery in Modena, Italy, completed in 1971, is a poignant example of Rossi's ability to create spaces that resonate with historical and cultural significance. The cemetery's minimalist design and use of traditional materials create a contemplative environment.",
+      "highest_budget_project": "Teatro Carlo Felice",
+      "extended_critique_highest_budget_project": "The Teatro Carlo Felice in Genoa, Italy, completed in 1991, is one of Rossi's most significant projects. The theater's design blends modern and classical elements, creating a space that is both functional and elegant.",
+      "personal_favorite_project": "Bonnefanten Museum",
+      "extended_critique_personal_favorite_project": "The Bonnefanten Museum in Maastricht, Netherlands, completed in 1995, showcases Rossi's ability to integrate contemporary design within a historic context. The museum's cylindrical tower and use of brick and concrete create a striking architectural landmark.",
+      "famous_quotes": [
+         "Any work of architecture which does not express serenity is a mistake.",
+         "All architecture is shelter, all great architecture is the design of space that contains, cuddles, exalts, or stimulates the persons in that space.",
+         "I don't divide architecture, landscape and gardening; to me they are one."
+      ]
+   },
+   {
+      "name": "Robert Venturi",
+      "year": 1991,
+      "winning_statement": "For his broad and humane approach to modern architecture.",
+      "extended_winning_statement": "Robert Venturi's work is characterized by its embrace of complexity and contradiction. His buildings often blend historical references with modern elements, creating spaces that are both playful and thought-provoking.",
+      "breakthrough_project": "Vanna Venturi House",
+      "extended_critique_breakthrough_project": "The Vanna Venturi House, completed in 1964, is a seminal work of postmodern architecture. Venturi's design challenges modernist principles with its use of ornamentation, asymmetry, and historical references.",
+      "highest_budget_project": "Sainsbury Wing, National Gallery",
+      "extended_critique_highest_budget_project": "The Sainsbury Wing of the National Gallery in London, completed in 1991, reflects Venturi's skill in blending new and old elements. The wing's design harmonizes with the existing gallery while providing modern amenities and improved accessibility.",
+      "personal_favorite_project": "Seattle Art Museum",
+      "extended_critique_personal_favorite_project": "The Seattle Art Museum, completed in 1991, showcases Venturi's ability to create engaging, dynamic spaces for art and culture. The museum's playful design and use of natural light make it a welcoming environment for visitors.",
+      "famous_quotes": [
+         "Less is a bore.",
+         "The architect should strive continually to simplify; the ensemble of the rooms should then be carefully considered that comfort and utility may go hand in hand with beauty.",
+         "I like complexity and contradiction in architecture."
+      ]
+   },
+   {
+      "name": "Alvaro Siza",
+      "year": 1992,
+      "winning_statement": "For his lyrical architecture that is both modern and rooted in the culture of his native Portugal.",
+      "extended_winning_statement": "Alvaro Siza's architecture is characterized by its sensitivity to context and its poetic use of form and space. His buildings often reflect the cultural and historical context of their locations, creating spaces that are both timeless and contemporary.",
+      "breakthrough_project": "Bouça Housing Complex",
+      "extended_critique_breakthrough_project": "The Bouça Housing Complex in Porto, Portugal, completed in 1977, is a landmark of social housing design. Siza's thoughtful use of materials and integration with the urban fabric create a sense of community and belonging.",
+      "highest_budget_project": "Serralves Museum of Contemporary Art",
+      "extended_critique_highest_budget_project": "The Serralves Museum of Contemporary Art in Porto, completed in 1999, is celebrated for its elegant design and integration with the surrounding parkland. Siza's use of natural light and minimalist forms create a serene environment for the display of contemporary art.",
+      "personal_favorite_project": "Church of Santa Maria",
+      "extended_critique_personal_favorite_project": "The Church of Santa Maria in Marco de Canaveses, Portugal, completed in 1996, exemplifies Siza's ability to create spaces that inspire contemplation and spiritual reflection. The church's simple, geometric forms and use of natural light create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "Each work is a new piece of a vast puzzle that can only be understood when complete.",
+         "It is not possible to go forward while looking back.",
+         "Architecture is a struggle with what is possible."
+      ]
+   },
+   {
+      "name": "Fumihiko Maki",
+      "year": 1993,
+      "winning_statement": "For his mastery of modern architecture that is rooted in Japanese tradition.",
+      "extended_winning_statement": "Fumihiko Maki's work is characterized by its elegant simplicity and deep connection to Japanese cultural traditions. His buildings often feature clean lines, thoughtful use of materials, and a harmonious integration with their surroundings.",
+      "breakthrough_project": "Hillside Terrace",
+      "extended_critique_breakthrough_project": "The Hillside Terrace complex in Tokyo, completed in stages from 1967 to 1992, is a pioneering example of mixed-use development. Maki's design integrates residential, commercial, and cultural spaces, creating a vibrant urban environment.",
+      "highest_budget_project": "Tokyo Metropolitan Gymnasium",
+      "extended_critique_highest_budget_project": "The Tokyo Metropolitan Gymnasium, completed in 1991, is celebrated for its innovative structural design and functional layout. Maki's use of natural light and open spaces creates a welcoming environment for sports and recreation.",
+      "personal_favorite_project": "Kaze-no-Oka Crematorium",
+      "extended_critique_personal_favorite_project": "The Kaze-no-Oka Crematorium in Nakatsu, Japan, completed in 1997, exemplifies Maki's ability to create spaces that are both serene and functional. The crematorium's minimalist design and use of natural materials create a peaceful environment for reflection and mourning.",
+      "famous_quotes": [
+         "The essence of architecture is the invention of appropriate forms in response to the realities of the problem.",
+         "I think the quality of beauty lies in simplicity and clarity.",
+         "Architecture has to be greater than just architecture. It has to address social values, as well as technical and aesthetic values."
+      ]
+   },
+   {
+      "name": "Christian de Portzamparc",
+      "year": 1994,
+      "winning_statement": "For his commitment to creating buildings that are both functional and deeply humane.",
+      "extended_winning_statement": "Christian de Portzamparc's architecture is characterized by its innovative use of form and space. His buildings often feature bold, sculptural designs that challenge conventional architectural norms while creating functional and inspiring environments.",
+      "breakthrough_project": "Cité de la Musique",
+      "extended_critique_breakthrough_project": "The Cité de la Musique in Paris, completed in 1995, is celebrated for its innovative design and urban integration. Portzamparc's use of fluid forms and open spaces creates a dynamic environment for music and performance.",
+      "highest_budget_project": "LVMH Tower",
+      "extended_critique_highest_budget_project": "The LVMH Tower in New York, completed in 1999, is a striking example of Portzamparc's architectural vision. The tower's sleek, glass façade and innovative structural design make it a standout feature of the city's skyline.",
+      "personal_favorite_project": "Nexus II",
+      "extended_critique_personal_favorite_project": "The Nexus II residential complex in Fukuoka, Japan, completed in 1991, showcases Portzamparc's ability to create vibrant, livable urban environments. The complex's innovative use of space and attention to detail create a sense of community and connection.",
+      "famous_quotes": [
+         "Architecture is about making space accessible.",
+         "A city is a place where people meet to exchange ideas.",
+         "The role of architecture is to make the world a more beautiful place."
+      ]
+   },
+   {
+      "name": "Tadao Ando",
+      "year": 1995,
+      "winning_statement": "For his uncompromising approach to architecture and his commitment to the integration of nature and the built environment.",
+      "extended_winning_statement": "Tadao Ando's architecture is known for its minimalist aesthetic and thoughtful integration with nature. His buildings often feature simple, geometric forms, exposed concrete, and a careful consideration of light and space.",
+      "breakthrough_project": "Church of the Light",
+      "extended_critique_breakthrough_project": "The Church of the Light in Ibaraki, Japan, completed in 1989, is a masterpiece of minimalist architecture. Ando's use of light and shadow creates a spiritual and contemplative space that inspires reflection and serenity.",
+      "highest_budget_project": "Modern Art Museum of Fort Worth",
+      "extended_critique_highest_budget_project": "The Modern Art Museum of Fort Worth, completed in 2002, is celebrated for its elegant design and integration with the surrounding landscape. Ando's use of water, glass, and concrete creates a serene environment for the display of modern art.",
+      "personal_favorite_project": "Row House (Azuma House)",
+      "extended_critique_personal_favorite_project": "The Row House in Sumiyoshi, Osaka, completed in 1976, is one of Ando's most iconic residential projects. The house's austere design and use of natural light create a peaceful retreat within the dense urban environment.",
+      "famous_quotes": [
+         "You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.",
+         "I believe that architecture, like music, should touch the human soul.",
+         "In all my works, light is an important controlling factor."
+      ]
+   },
+   {
+      "name": "Rafael Moneo",
+      "year": 1996,
+      "winning_statement": "For his ability to blend tradition and modernity in his designs.",
+      "extended_winning_statement": "Rafael Moneo's architecture is characterized by its thoughtful integration of modern and historical elements. His buildings often feature clean lines, elegant forms, and a deep respect for the cultural and historical context of their locations.",
+      "breakthrough_project": "National Museum of Roman Art",
+      "extended_critique_breakthrough_project": "The National Museum of Roman Art in Mérida, Spain, completed in 1986, is celebrated for its harmonious blend of contemporary and historical elements. Moneo's use of brick and light creates a timeless environment for the display of Roman artifacts.",
+      "highest_budget_project": "Atocha Station",
+      "extended_critique_highest_budget_project": "The Atocha Station expansion in Madrid, completed in 1992, is one of Moneo's most significant projects. The station's design seamlessly integrates modern amenities with the existing historical structure, enhancing the travel experience for millions of passengers.",
+      "personal_favorite_project": "Kursaal Congress Centre",
+      "extended_critique_personal_favorite_project": "The Kursaal Congress Centre in San Sebastián, Spain, completed in 1999, exemplifies Moneo's ability to create iconic, functional public spaces. The building's sculptural forms and use of natural light make it a standout feature of the city's waterfront.",
+      "famous_quotes": [
+         "Architecture is a dialogue between the past, present, and future.",
+         "My buildings are not meant to be monuments, but to serve the people who use them.",
+         "The architect's role is to make a meaningful contribution to the built environment."
+      ]
+   },
+   {
+      "name": "Sverre Fehn",
+      "year": 1997,
+      "winning_statement": "For his commitment to creating buildings that are both functional and deeply humane.",
+      "extended_winning_statement": "Sverre Fehn's architecture is characterized by its sensitivity to the natural environment and its thoughtful use of materials. His buildings often feature simple, geometric forms that create a sense of harmony and tranquility.",
+      "breakthrough_project": "Nordic Pavilion at the Venice Biennale",
+      "extended_critique_breakthrough_project": "The Nordic Pavilion at the Venice Biennale, completed in 1962, is celebrated for its integration with nature and innovative use of light. Fehn's design creates a serene, contemplative environment for the display of art.",
+      "highest_budget_project": "Hedmark Museum",
+      "extended_critique_highest_budget_project": "The Hedmark Museum in Hamar, Norway, completed in 1979, is one of Fehn's most significant projects. The museum's design seamlessly integrates new and old elements, creating a space that celebrates Norway's cultural heritage.",
+      "personal_favorite_project": "Ivar Aasen Centre",
+      "extended_critique_personal_favorite_project": "The Ivar Aasen Centre in Ørsta, Norway, completed in 2000, exemplifies Fehn's ability to create spaces that inspire reflection and connection to the natural environment. The building's minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I have tried to make architecture that says something about the human condition.",
+         "The beauty of a building is not just in its appearance, but in its construction and its use.",
+         "Architecture is about giving form to the places where people live."
+      ]
+   },
+   {
+      "name": "Renzo Piano",
+      "year": 1998,
+      "winning_statement": "For his creative approach to architecture that is both innovative and respectful of its context.",
+      "extended_winning_statement": "Renzo Piano's architecture is characterized by its innovative use of materials and technology. His buildings often feature light-filled spaces and a thoughtful integration with their surroundings, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "The Shard",
+      "extended_critique_breakthrough_project": "The Shard in London, completed in 2012, is an iconic addition to the city's skyline. Piano's use of glass and steel creates a sleek, modern structure that reflects the sky and surrounding cityscape, symbolizing London's dynamic energy.",
+      "highest_budget_project": "Centre Georges Pompidou",
+      "extended_critique_highest_budget_project": "The Centre Georges Pompidou in Paris, completed in 1977, is celebrated for its radical, inside-out design. Piano's use of exposed structural elements and vibrant colors creates a dynamic environment for art and culture.",
+      "personal_favorite_project": "Kansai International Airport",
+      "extended_critique_personal_favorite_project": "Kansai International Airport in Osaka, Japan, completed in 1994, showcases Piano's ability to create large-scale infrastructure projects that are both functional and aesthetically pleasing. The airport's sweeping roof and use of natural light create a welcoming environment for travelers.",
+      "famous_quotes": [
+         "Architecture is a very dangerous job. If a writer makes a bad book, nothing happens. But if he makes a bad building, the consequences are serious.",
+         "You cannot say that you are an architect if you do not design buildings. Designing buildings is a responsibility that you have to take on.",
+         "Every time a building is completed, a little piece of me is left behind."
+      ]
+   },
+   {
+      "name": "Norman Foster",
+      "year": 1999,
+      "winning_statement": "For his high-tech approach to architecture that combines innovation and sustainability.",
+      "extended_winning_statement": "Norman Foster's architecture is known for its innovative use of technology and commitment to sustainability. His buildings often feature cutting-edge materials and design techniques, creating environments that are both functional and environmentally responsible.",
+      "breakthrough_project": "30 St Mary Axe (The Gherkin)",
+      "extended_critique_breakthrough_project": "30 St Mary Axe, commonly known as The Gherkin, in London, completed in 2003, is a landmark of modern architecture. Foster's design emphasizes energy efficiency and sustainability, creating a building that is both iconic and environmentally friendly.",
+      "highest_budget_project": "Millennium Bridge",
+      "extended_critique_highest_budget_project": "The Millennium Bridge in London, completed in 2000, is celebrated for its innovative design and engineering. Foster's use of lightweight materials and tension structures creates a graceful, pedestrian-friendly connection across the Thames.",
+      "personal_favorite_project": "Reichstag Building",
+      "extended_critique_personal_favorite_project": "The renovation of the Reichstag Building in Berlin, completed in 1999, showcases Foster's ability to blend historical and modern elements. The building's glass dome and sustainable features symbolize transparency and democracy.",
+      "famous_quotes": [
+         "As an architect, you design for the present, with an awareness of the past, for a future which is essentially unknown.",
+         "Everything inspires me. It could be a book, a conversation with a friend, the quality of the light, the sky, or the way the clouds move.",
+         "Architecture is an expression of values."
+      ]
+   },
+   {
+      "name": "Rem Koolhaas",
+      "year": 2000,
+      "winning_statement": "For his intellectual approach to architecture and his innovative designs.",
+      "extended_winning_statement": "Rem Koolhaas's work is characterized by its bold, avant-garde designs and intellectual rigor. His buildings often challenge conventional architectural norms, creating spaces that are both thought-provoking and functional.",
+      "breakthrough_project": "Seattle Central Library",
+      "extended_critique_breakthrough_project": "The Seattle Central Library, completed in 2004, is celebrated for its unconventional design and innovative use of space. Koolhaas's emphasis on transparency and accessibility creates a welcoming environment for library users.",
+      "highest_budget_project": "CCTV Headquarters",
+      "extended_critique_highest_budget_project": "The CCTV Headquarters in Beijing, completed in 2012, is one of Koolhaas's most ambitious projects. The building's distinctive looped design and innovative use of structural elements make it a standout feature of the city's skyline.",
+      "personal_favorite_project": "Casa da Música",
+      "extended_critique_personal_favorite_project": "The Casa da Música in Porto, Portugal, completed in 2005, exemplifies Koolhaas's ability to create dynamic, multifunctional spaces. The concert hall's bold design and flexible interior make it a vibrant cultural hub.",
+      "famous_quotes": [
+         "Architecture is a dangerous mix of power and importance.",
+         "People can inhabit anything. And they can be miserable in anything and ecstatic in anything. More and more I think architecture has nothing to do with it. Of course, that's both liberating and alarming.",
+         "It's very important that architecture is always the result of collaboration."
+      ]
+   },
+   {
+      "name": "Jacques Herzog and Pierre de Meuron",
+      "year": 2001,
+      "winning_statement": "For their innovative and sustainable approach to architecture.",
+      "extended_winning_statement": "Jacques Herzog and Pierre de Meuron's work is characterized by its innovative use of materials and commitment to sustainability. Their buildings often feature bold, expressive forms and a deep sensitivity to the cultural and environmental context.",
+      "breakthrough_project": "Tate Modern",
+      "extended_critique_breakthrough_project": "The Tate Modern in London, completed in 2000, is celebrated for its adaptive reuse of an industrial building. Herzog and de Meuron's design transforms the former power station into a dynamic cultural space, blending history and modernity.",
+      "highest_budget_project": "Elbphilharmonie",
+      "extended_critique_highest_budget_project": "The Elbphilharmonie in Hamburg, Germany, completed in 2016, is one of Herzog and de Meuron's most ambitious projects. The concert hall's distinctive glass structure and innovative acoustics make it a world-class venue for music and performance.",
+      "personal_favorite_project": "VitraHaus",
+      "extended_critique_personal_favorite_project": "The VitraHaus in Weil am Rhein, Germany, completed in 2010, showcases Herzog and de Meuron's ability to create playful, engaging spaces. The building's stacked house-like structures and use of natural light create a welcoming environment for visitors.",
+      "famous_quotes": [
+         "Architecture should speak of its time and place, but yearn for timelessness.",
+         "We do not have a style. We do not search for form or expression in architecture.",
+         "A building is a building. It cannot be a work of art."
+      ]
+   },
+   {
+      "name": "Glenn Murcutt",
+      "year": 2002,
+      "winning_statement": "For his environmentally sensitive designs and his commitment to sustainability.",
+      "extended_winning_statement": "Glenn Murcutt's architecture is characterized by its deep respect for the natural environment. His buildings often feature simple, lightweight structures and thoughtful use of materials, creating spaces that are both sustainable and harmonious with their surroundings.",
+      "breakthrough_project": "Magney House",
+      "extended_critique_breakthrough_project": "The Magney House in New South Wales, Australia, completed in 1984, is celebrated for its integration with the landscape. Murcutt's use of natural ventilation, solar shading, and rainwater collection exemplify his commitment to sustainable design.",
+      "highest_budget_project": "Arthur and Yvonne Boyd Education Centre",
+      "extended_critique_highest_budget_project": "The Arthur and Yvonne Boyd Education Centre in Riversdale, Australia, completed in 1999, is a significant example of Murcutt's approach to educational architecture. The building's design emphasizes natural light, ventilation, and a connection to the surrounding landscape.",
+      "personal_favorite_project": "Marie Short House",
+      "extended_critique_personal_favorite_project": "The Marie Short House in New South Wales, completed in 1975, is one of Murcutt's most iconic residential projects. The house's lightweight structure and integration with the natural environment reflect his philosophy of 'touching the earth lightly.'",
+      "famous_quotes": [
+         "Touch the earth lightly.",
+         "The beauty is in the space, not the structure.",
+         "We do not create the work. I believe we, in fact, are discoverers."
+      ]
+   },
+   {
+      "name": "Jørn Utzon",
+      "year": 2003,
+      "winning_statement": "For his architectural vision and his masterpiece, the Sydney Opera House.",
+      "extended_winning_statement": "Jørn Utzon's work is characterized by its visionary approach and innovative use of materials and forms. His buildings often feature bold, sculptural designs that challenge conventional architectural norms while creating functional and inspiring spaces.",
+      "breakthrough_project": "Sydney Opera House",
+      "extended_critique_breakthrough_project": "The Sydney Opera House, completed in 1973, is a world-renowned architectural icon. Utzon's innovative use of precast concrete shells and integration with the harbor create a building that is both functional and sculpturally expressive.",
+      "highest_budget_project": "Kuwait National Assembly Building",
+      "extended_critique_highest_budget_project": "The Kuwait National Assembly Building, completed in 1982, is one of Utzon's most significant projects. The building's design reflects traditional Islamic architecture while incorporating modern structural elements, creating a space that is both culturally resonant and functionally efficient.",
+      "personal_favorite_project": "Can Lis",
+      "extended_critique_personal_favorite_project": "Can Lis, Utzon's personal residence in Mallorca, Spain, completed in 1973, exemplifies his ability to create spaces that are both functional and deeply connected to their natural surroundings. The house's use of local materials and integration with the landscape create a serene, contemplative environment.",
+      "famous_quotes": [
+         "The architect's role is to fight for a better world through architecture.",
+         "The Sydney Opera House was an exercise in optimism, as well as a vision of what the future could be.",
+         "Architecture is about making spaces that are more enjoyable for people."
+      ]
+   },
+   {
+      "name": "Zaha Hadid",
+      "year": 2004,
+      "winning_statement": "For her innovative and visionary approach to architecture.",
+      "extended_winning_statement": "Zaha Hadid's architecture is characterized by its bold, fluid forms and innovative use of materials and technology. Her buildings often challenge conventional architectural norms, creating dynamic, expressive spaces that captivate and inspire.",
+      "breakthrough_project": "MAXXI National Museum of the 21st Century Arts",
+      "extended_critique_breakthrough_project": "The MAXXI Museum in Rome, completed in 2010, is celebrated for its fluid, dynamic forms and innovative use of space. Hadid's design creates a sense of movement and flow, enhancing the visitor experience and redefining the museum's role in the urban context.",
+      "highest_budget_project": "Heydar Aliyev Center",
+      "extended_critique_highest_budget_project": "The Heydar Aliyev Center in Baku, Azerbaijan, completed in 2012, is one of Hadid's most iconic works. The building's flowing, organic forms and innovative structural design make it a standout feature of the city's skyline.",
+      "personal_favorite_project": "London Aquatics Centre",
+      "extended_critique_personal_favorite_project": "The London Aquatics Centre, completed in 2011, showcases Hadid's ability to create functional, visually striking public spaces. The building's sweeping curves and use of natural light create a welcoming environment for athletes and spectators alike.",
+      "famous_quotes": [
+         "There are 360 degrees, so why stick to one?",
+         "Architecture is like writing. You have to edit it over and over so it looks effortless.",
+         "I don't think architecture is only about shelter, is only about a very simple enclosure. It should be able to excite you, to calm you, to make you think."
+      ]
+   },
+   {
+      "name": "Thom Mayne",
+      "year": 2005,
+      "winning_statement": "For his bold and unconventional approach to architecture.",
+      "extended_winning_statement": "Thom Mayne's work is characterized by its innovative use of materials and sculptural forms. His buildings often challenge conventional architectural norms, creating dynamic, expressive spaces that captivate and inspire.",
+      "breakthrough_project": "San Francisco Federal Building",
+      "extended_critique_breakthrough_project": "The San Francisco Federal Building, completed in 2007, is celebrated for its innovative design and sustainable features. Mayne's use of natural ventilation, solar shading, and recycled materials exemplify his commitment to environmentally responsible design.",
+      "highest_budget_project": "Cooper Union's New Academic Building",
+      "extended_critique_highest_budget_project": "The Cooper Union's New Academic Building in New York, completed in 2009, is a striking example of Mayne's architectural vision. The building's dynamic form and innovative use of materials create a stimulating environment for learning and collaboration.",
+      "personal_favorite_project": "41 Cooper Square",
+      "extended_critique_personal_favorite_project": "41 Cooper Square in New York, completed in 2009, showcases Mayne's ability to create engaging, dynamic spaces for education. The building's perforated façade and flexible interior spaces make it a standout feature of the city's architectural landscape.",
+      "famous_quotes": [
+         "Architecture is a way of seeing, thinking, and questioning our world and our place in it.",
+         "I believe in an architecture that has the capacity to change the way we see the world.",
+         "Good architecture should create a sense of place and a sense of belonging."
+      ]
+   },
+   {
+      "name": "Paulo Mendes da Rocha",
+      "year": 2006,
+      "winning_statement": "For his bold use of concrete and his commitment to social architecture.",
+      "extended_winning_statement": "Paulo Mendes da Rocha's architecture is characterized by its innovative use of concrete and commitment to social responsibility. His buildings often feature bold, sculptural forms and thoughtful integration with their surroundings, creating spaces that are both functional and inspiring.",
+      "breakthrough_project": "Brazilian Museum of Sculpture",
+      "extended_critique_breakthrough_project": "The Brazilian Museum of Sculpture in São Paulo, completed in 1988, is celebrated for its monumental scale and innovative use of concrete. Mendes da Rocha's design creates a dynamic environment for the display of contemporary art.",
+      "highest_budget_project": "Patriarch Plaza",
+      "extended_critique_highest_budget_project": "The Patriarch Plaza in São Paulo, completed in 2002, is a significant example of Mendes da Rocha's approach to urban design. The plaza's bold forms and use of public space create a vibrant, engaging environment for the city's residents.",
+      "personal_favorite_project": "Capela de São Pedro",
+      "extended_critique_personal_favorite_project": "The Capela de São Pedro in Campos do Jordão, Brazil, completed in 1987, exemplifies Mendes da Rocha's ability to create spaces that inspire reflection and connection to the natural environment. The chapel's minimalist design and use of natural light create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "Architecture is the transformation of an idea into space.",
+         "The role of architecture is to create conditions for life.",
+         "Architecture is a way of thinking about the world."
+      ]
+   },
+   {
+      "name": "Richard Rogers",
+      "year": 2007,
+      "winning_statement": "For his high-tech and sustainable approach to architecture.",
+      "extended_winning_statement": "Richard Rogers's architecture is characterized by its innovative use of technology and commitment to sustainability. His buildings often feature cutting-edge materials and design techniques, creating environments that are both functional and environmentally responsible.",
+      "breakthrough_project": "Lloyd's Building",
+      "extended_critique_breakthrough_project": "The Lloyd's Building in London, completed in 1986, is a landmark of high-tech architecture. Rogers's use of exposed structural elements and flexible interior spaces creates a dynamic, engaging environment for work and collaboration.",
+      "highest_budget_project": "Terminal 4, Madrid-Barajas Airport",
+      "extended_critique_highest_budget_project": "Terminal 4 at Madrid-Barajas Airport, completed in 2005, is celebrated for its innovative design and emphasis on passenger experience. Rogers's use of natural light, open spaces, and sustainable materials creates a welcoming environment for travelers.",
+      "personal_favorite_project": "Millennium Dome",
+      "extended_critique_personal_favorite_project": "The Millennium Dome in London, completed in 1999, showcases Rogers's ability to create large-scale public spaces that are both functional and visually striking. The dome's innovative design and use of technology make it a standout feature of the city's architectural landscape.",
+      "famous_quotes": [
+         "My passion and great enjoyment for architecture, and the reason the older I get the more I enjoy it, is because I believe we - architects - can affect the quality of life of the people.",
+         "Architecture is measured against the past, you build in the present, and try to imagine the future.",
+         "Form follows profit is the aesthetic principle of our times."
+      ]
+   },
+   {
+      "name": "Jean Nouvel",
+      "year": 2008,
+      "winning_statement": "For his creative and innovative approach to architecture.",
+      "extended_winning_statement": "Jean Nouvel's architecture is characterized by its bold, innovative designs and commitment to context. His buildings often feature striking forms and materials, creating dynamic, engaging spaces that respond to their surroundings.",
+      "breakthrough_project": "Institut du Monde Arabe",
+      "extended_critique_breakthrough_project": "The Institut du Monde Arabe in Paris, completed in 1987, is celebrated for its innovative façade and cultural significance. Nouvel's use of traditional Arabic patterns and modern technology creates a building that bridges the gap between past and present.",
+      "highest_budget_project": "Louvre Abu Dhabi",
+      "extended_critique_highest_budget_project": "The Louvre Abu Dhabi, completed in 2017, is one of Nouvel's most ambitious projects. The museum's distinctive dome and use of light create a dynamic environment for the display of art, reflecting the cultural heritage of the region.",
+      "personal_favorite_project": "Torre Agbar",
+      "extended_critique_personal_favorite_project": "The Torre Agbar in Barcelona, completed in 2005, showcases Nouvel's ability to create visually striking, functional skyscrapers. The tower's colorful, reflective façade and innovative use of materials make it a standout feature of the city's skyline.",
+      "famous_quotes": [
+         "Architecture is the art of reconciliation between ourselves and the world.",
+         "Space is the breath of art.",
+         "I like the idea of using all the elements in architecture: structure, space, form, light, materials."
+      ]
+   },
+   {
+      "name": "Peter Zumthor",
+      "year": 2009,
+      "winning_statement": "For his meticulous craftsmanship and thoughtful approach to architecture.",
+      "extended_winning_statement": "Peter Zumthor's architecture is characterized by its meticulous attention to detail and deep connection to place. His buildings often feature simple, geometric forms and a thoughtful use of materials, creating spaces that are both functional and deeply resonant.",
+      "breakthrough_project": "Therme Vals",
+      "extended_critique_breakthrough_project": "Therme Vals in Switzerland, completed in 1996, is celebrated for its sensory experience and integration with the landscape. Zumthor's use of local stone and natural light creates a serene, contemplative environment for relaxation and rejuvenation.",
+      "highest_budget_project": "Kolumba Museum",
+      "extended_critique_highest_budget_project": "The Kolumba Museum in Cologne, Germany, completed in 2007, is a significant example of Zumthor's approach to museum design. The building's minimalist forms and use of natural materials create a contemplative environment for the display of art.",
+      "personal_favorite_project": "Field Chapel",
+      "extended_critique_personal_favorite_project": "The Field Chapel in Mechernich, Germany, completed in 2007, exemplifies Zumthor's ability to create intimate, contemplative spaces. The chapel's simple, geometric forms and use of natural light create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I believe that architecture is a spatial art, not an abstract art.",
+         "Architecture is about creating spaces for people to live in and be comfortable.",
+         "I am always searching for architecture that is beyond style."
+      ]
+   },
+   {
+      "name": "Kazuyo Sejima and Ryue Nishizawa",
+      "year": 2010,
+      "winning_statement": "For their collaborative and innovative approach to architecture.",
+      "extended_winning_statement": "Kazuyo Sejima and Ryue Nishizawa's work is characterized by its innovative use of materials and commitment to context. Their buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "21st Century Museum of Contemporary Art",
+      "extended_critique_breakthrough_project": "The 21st Century Museum of Contemporary Art in Kanazawa, Japan, completed in 2004, is celebrated for its transparency and connection to the community. Sejima and Nishizawa's design creates a dynamic environment for the display of contemporary art.",
+      "highest_budget_project": "Louvre-Lens",
+      "extended_critique_highest_budget_project": "The Louvre-Lens in Lens, France, completed in 2012, is a significant example of Sejima and Nishizawa's approach to museum design. The building's simple, geometric forms and use of natural light create a serene environment for the display of art.",
+      "personal_favorite_project": "New Museum",
+      "extended_critique_personal_favorite_project": "The New Museum in New York, completed in 2007, showcases Sejima and Nishizawa's ability to create visually striking, functional museum spaces. The building's stacked forms and use of natural light make it a standout feature of the city's architectural landscape.",
+      "famous_quotes": [
+         "Architecture should be an expression of the times and context in which it is created.",
+         "We believe that architecture should be open, transparent, and flexible.",
+         "Our aim is to create buildings that have a sense of transparency and openness."
+      ]
+   },
+   {
+      "name": "Eduardo Souto de Moura",
+      "year": 2011,
+      "winning_statement": "For his ability to convey a sense of place and identity through his architecture.",
+      "extended_winning_statement": "Eduardo Souto de Moura's architecture is characterized by its sensitivity to context and its poetic use of form and space. His buildings often reflect the cultural and historical context of their locations, creating spaces that are both timeless and contemporary.",
+      "breakthrough_project": "Paula Rego Museum",
+      "extended_critique_breakthrough_project": "The Paula Rego Museum in Cascais, Portugal, completed in 2009, is celebrated for its integration with the landscape and its sculptural form. Souto de Moura's use of natural light and simple, geometric forms create a serene environment for the display of art.",
+      "highest_budget_project": "Braga Municipal Stadium",
+      "extended_critique_highest_budget_project": "The Braga Municipal Stadium in Braga, Portugal, completed in 2003, is a significant example of Souto de Moura's approach to sports architecture. The stadium's design integrates with the surrounding landscape, creating a dynamic environment for sports and recreation.",
+      "personal_favorite_project": "House in Moledo",
+      "extended_critique_personal_favorite_project": "The House in Moledo, Portugal, completed in 1998, exemplifies Souto de Moura's ability to create intimate, contemplative spaces. The house's minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "Architecture is a slow process, a quiet, careful process.",
+         "Good architecture is like a good painting or sculpture: it should evoke emotion and thought.",
+         "Architecture is not about form, but about space and light."
+      ]
+   },
+   {
+      "name": "Wang Shu",
+      "year": 2012,
+      "winning_statement": "For his integration of traditional Chinese architecture with modern design.",
+      "extended_winning_statement": "Wang Shu's architecture is characterized by its innovative use of materials and commitment to context. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Ningbo Historic Museum",
+      "extended_critique_breakthrough_project": "The Ningbo Historic Museum in Ningbo, China, completed in 2008, is celebrated for its innovative use of materials and connection to local history. Wang Shu's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Xiangshan Campus of China Academy of Art",
+      "extended_critique_highest_budget_project": "The Xiangshan Campus of China Academy of Art in Hangzhou, China, completed in 2007, is a significant example of Wang Shu's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Five Scattered Houses",
+      "extended_critique_personal_favorite_project": "The Five Scattered Houses in Ningbo, China, completed in 2011, showcases Wang Shu's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I believe in architecture that speaks to its time and place, and is not afraid to be of its time and place.",
+         "Architecture should have a connection to history and culture.",
+         "I like to use materials in a way that is honest and true to their nature."
+      ]
+   },
+   {
+      "name": "Toyo Ito",
+      "year": 2013,
+      "winning_statement": "For his innovative and poetic approach to architecture.",
+      "extended_winning_statement": "Toyo Ito's architecture is characterized by its innovative use of materials and commitment to context. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Sendai Mediatheque",
+      "extended_critique_breakthrough_project": "The Sendai Mediatheque in Sendai, Japan, completed in 2001, is celebrated for its innovative use of materials and connection to local history. Ito's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Taichung Metropolitan Opera House",
+      "extended_critique_highest_budget_project": "The Taichung Metropolitan Opera House in Taichung, Taiwan, completed in 2014, is a significant example of Ito's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Tama Art University Library",
+      "extended_critique_personal_favorite_project": "The Tama Art University Library in Tokyo, Japan, completed in 2007, showcases Ito's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "Architecture is not about form but about feelings and experiences.",
+         "I think architecture is not about solving problems, but about creating possibilities.",
+         "Buildings should not just be functional but should also stimulate our senses and imagination."
+      ]
+   },
+   {
+      "name": "Shigeru Ban",
+      "year": 2014,
+      "winning_statement": "For his innovative use of materials and his commitment to humanitarian architecture.",
+      "extended_winning_statement": "Shigeru Ban's architecture is characterized by its innovative use of materials and commitment to humanitarian causes. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Centre Pompidou-Metz",
+      "extended_critique_breakthrough_project": "The Centre Pompidou-Metz in Metz, France, completed in 2010, is celebrated for its innovative use of materials and connection to local history. Ban's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Paper Concert Hall",
+      "extended_critique_highest_budget_project": "The Paper Concert Hall in Lushan, China, completed in 2012, is a significant example of Ban's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Nicolas G. Hayek Center",
+      "extended_critique_personal_favorite_project": "The Nicolas G. Hayek Center in Tokyo, Japan, completed in 2007, showcases Ban's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I don't like waste, and I am very careful about the use of materials.",
+         "I am not attracted to building technology, but to using materials in a way that respects their nature.",
+         "Architecture is not just about building. It's a way of thinking about the world."
+      ]
+   },
+   {
+      "name": "Frei Otto",
+      "year": 2015,
+      "winning_statement": "For his innovative use of lightweight structures and his commitment to sustainability.",
+      "extended_winning_statement": "Frei Otto's architecture is characterized by its innovative use of materials and commitment to sustainability. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Olympic Stadium, Munich",
+      "extended_critique_breakthrough_project": "The Olympic Stadium in Munich, Germany, completed in 1972, is celebrated for its innovative use of materials and connection to local history. Otto's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Multihalle",
+      "extended_critique_highest_budget_project": "The Multihalle in Mannheim, Germany, completed in 1975, is a significant example of Otto's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Japan Pavilion",
+      "extended_critique_personal_favorite_project": "The Japan Pavilion in Osaka, Japan, completed in 1970, showcases Otto's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I have never sought to be fashionable in my work, and I am never interested in architecture as a vehicle for self-expression.",
+         "Architecture should be a natural process, like the growth of a tree.",
+         "I believe in lightweight construction and the use of minimal materials."
+      ]
+   },
+   {
+      "name": "Alejandro Aravena",
+      "year": 2016,
+      "winning_statement": "For his commitment to social housing and his innovative approach to urban design.",
+      "extended_winning_statement": "Alejandro Aravena's architecture is characterized by its innovative use of materials and commitment to social responsibility. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Quinta Monroy Housing",
+      "extended_critique_breakthrough_project": "The Quinta Monroy Housing in Iquique, Chile, completed in 2004, is celebrated for its innovative use of materials and connection to local history. Aravena's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Siamese Towers",
+      "extended_critique_highest_budget_project": "The Siamese Towers in Santiago, Chile, completed in 2005, is a significant example of Aravena's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Villa Verde Housing",
+      "extended_critique_personal_favorite_project": "The Villa Verde Housing in Constitución, Chile, completed in 2013, showcases Aravena's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "We architects have been granted a privileged position to contribute to the betterment of society.",
+         "Architecture is not about making beautiful buildings, but about solving social problems.",
+         "The best architecture is that which is in harmony with its surroundings and the people who use it."
+      ]
+   },
+   {
+      "name": "Rafael Aranda, Carme Pigem, and Ramon Vilalta",
+      "year": 2017,
+      "winning_statement": "For their collaborative and sensitive approach to architecture.",
+      "extended_winning_statement": "Rafael Aranda, Carme Pigem, and Ramon Vilalta's work is characterized by its innovative use of materials and commitment to context. Their buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Row House",
+      "extended_critique_breakthrough_project": "The Row House in Olot, Spain, completed in 1993, is celebrated for its innovative use of materials and connection to local history. RCR Arquitectes' design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Tossols Basil Athletics Stadium",
+      "extended_critique_highest_budget_project": "The Tossols Basil Athletics Stadium in Olot, Spain, completed in 2000, is a significant example of RCR Arquitectes' approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Les Cols Pavilion",
+      "extended_critique_personal_favorite_project": "The Les Cols Pavilion in Olot, Spain, completed in 2005, showcases RCR Arquitectes' ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "Architecture is about creating spaces that feel good to be in.",
+         "We believe in an architecture that is in harmony with its environment.",
+         "Our aim is to create buildings that are both functional and poetic."
+      ]
+   },
+   {
+      "name": "Balkrishna Doshi",
+      "year": 2018,
+      "winning_statement": "For his commitment to social housing and his contributions to Indian architecture.",
+      "extended_winning_statement": "Balkrishna Doshi's architecture is characterized by its innovative use of materials and commitment to social responsibility. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Aranya Low Cost Housing",
+      "extended_critique_breakthrough_project": "The Aranya Low Cost Housing in Indore, India, completed in 1989, is celebrated for its innovative use of materials and connection to local history. Doshi's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Indian Institute of Management Bangalore",
+      "extended_critique_highest_budget_project": "The Indian Institute of Management Bangalore, completed in 1983, is a significant example of Doshi's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Sangath",
+      "extended_critique_personal_favorite_project": "Sangath in Ahmedabad, India, completed in 1980, showcases Doshi's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I believe that architecture is not about the object, but about the space and the people who use it.",
+         "Good architecture is about creating spaces that feel good to be in.",
+         "Architecture should respond to the needs of the people and the place."
+      ]
+   },
+   {
+      "name": "Arata Isozaki",
+      "year": 2019,
+      "winning_statement": "For his innovative and forward-thinking approach to architecture.",
+      "extended_winning_statement": "Arata Isozaki's architecture is characterized by its innovative use of materials and commitment to context. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Museum of Contemporary Art, Los Angeles",
+      "extended_critique_breakthrough_project": "The Museum of Contemporary Art in Los Angeles, USA, completed in 1986, is celebrated for its innovative use of materials and connection to local history. Isozaki's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Qatar National Convention Centre",
+      "extended_critique_highest_budget_project": "The Qatar National Convention Centre in Doha, Qatar, completed in 2011, is a significant example of Isozaki's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Domus: La Casa del Hombre",
+      "extended_critique_personal_favorite_project": "Domus: La Casa del Hombre in A Coruña, Spain, completed in 1995, showcases Isozaki's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "Architecture is not just about physical buildings, but about creating spaces that are meaningful to people.",
+         "I believe that architecture should be an expression of the time and place in which it is created.",
+         "Architecture is a dialogue between the past, present, and future."
+      ]
+   },
+   {
+      "name": "Yvonne Farrell and Shelley McNamara",
+      "year": 2020,
+      "winning_statement": "For their collaborative and humanistic approach to architecture.",
+      "extended_winning_statement": "Yvonne Farrell and Shelley McNamara's architecture is characterized by its innovative use of materials and commitment to context. Their buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Universita Luigi Bocconi",
+      "extended_critique_breakthrough_project": "The Universita Luigi Bocconi in Milan, Italy, completed in 2008, is celebrated for its innovative use of materials and connection to local history. Farrell and McNamara's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "UCD University Club",
+      "extended_critique_highest_budget_project": "The UCD University Club in Dublin, Ireland, completed in 2019, is a significant example of Farrell and McNamara's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Town House Building",
+      "extended_critique_personal_favorite_project": "The Town House Building in Kingston upon Thames, UK, completed in 2020, showcases Farrell and McNamara's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "We believe that architecture should be about creating spaces that are in harmony with their surroundings.",
+         "Our aim is to create buildings that are both functional and poetic.",
+         "Architecture should respond to the needs of the people and the place."
+      ]
+   },
+   {
+      "name": "Anne Lacaton and Jean-Philippe Vassal",
+      "year": 2021,
+      "winning_statement": "For their commitment to sustainability and social responsibility in architecture.",
+      "extended_winning_statement": "Anne Lacaton and Jean-Philippe Vassal's architecture is characterized by its innovative use of materials and commitment to context. Their buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Transformation of 530 Dwellings, Grand Parc Bordeaux",
+      "extended_critique_breakthrough_project": "The Transformation of 530 Dwellings in Bordeaux, France, completed in 2017, is celebrated for its innovative use of materials and connection to local history. Lacaton and Vassal's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Palais de Tokyo",
+      "extended_critique_highest_budget_project": "The Palais de Tokyo in Paris, France, completed in 2002, is a significant example of Lacaton and Vassal's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "FRAC Dunkerque",
+      "extended_critique_personal_favorite_project": "The FRAC Dunkerque in Dunkirk, France, completed in 2013, showcases Lacaton and Vassal's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "We believe in an architecture that is generous, open, and adaptable.",
+         "Our aim is to create spaces that improve the quality of life for the people who use them.",
+         "Good architecture is about creating spaces that feel good to be in."
+      ]
+   },
+   {
+      "name": "Diebedo Francis Kere",
+      "year": 2022,
+      "winning_statement": "For his innovative and sustainable approach to architecture.",
+      "extended_winning_statement": "Diebedo Francis Kere's architecture is characterized by its innovative use of materials and commitment to context. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Primary School, Gando",
+      "extended_critique_breakthrough_project": "The Primary School in Gando, Burkina Faso, completed in 2001, is celebrated for its innovative use of materials and connection to local history. Kere's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Serpentine Pavilion",
+      "extended_critique_highest_budget_project": "The Serpentine Pavilion in London, UK, completed in 2017, is a significant example of Kere's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "National Assembly Building",
+      "extended_critique_personal_favorite_project": "The National Assembly Building in Ouagadougou, Burkina Faso, completed in 2014, showcases Kere's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "I believe that architecture can make a difference in people's lives.",
+         "Good architecture is about creating spaces that feel good to be in.",
+         "Architecture should respond to the needs of the people and the place."
+      ]
+   },
+   {
+      "name": "David Chipperfield",
+      "year": 2023,
+      "winning_statement": "For his commitment to creating buildings that are both functional and deeply humane, and his ability to create spaces that are both modern and respectful of their context.",
+      "extended_winning_statement": "David Chipperfield's architecture is characterized by its innovative use of materials and commitment to context. His buildings often feature simple, geometric forms and a thoughtful use of light and space, creating environments that are both functional and inspiring.",
+      "breakthrough_project": "Neues Museum",
+      "extended_critique_breakthrough_project": "The Neues Museum in Berlin, Germany, completed in 2009, is celebrated for its innovative use of materials and connection to local history. Chipperfield's design creates a dynamic environment for the display of art and cultural artifacts.",
+      "highest_budget_project": "Hepworth Wakefield",
+      "extended_critique_highest_budget_project": "The Hepworth Wakefield in Wakefield, UK, completed in 2011, is a significant example of Chipperfield's approach to educational architecture. The campus's design integrates with the surrounding landscape, creating a dynamic environment for learning and collaboration.",
+      "personal_favorite_project": "Saint Louis Art Museum",
+      "extended_critique_personal_favorite_project": "The Saint Louis Art Museum in St. Louis, USA, completed in 2013, showcases Chipperfield's ability to create intimate, contemplative spaces. The houses' minimalist design and use of natural materials create a peaceful, uplifting atmosphere.",
+      "famous_quotes": [
+         "The responsibility of the architect, in addition to designing the architecture of a building, is to design the relationships between buildings and the public.",
+         "I think the ideal space must contain elements of magic, serenity, sorcery, and mystery.",
+         "Architecture has to be greater than just architecture. It has to address social values, as well as technical and aesthetic values."
+      ]
+   },
+   {
+      "name": "Riken Yamamoto",
+      "year": 2024,
+      "winning_statement": "For his exploration of the relationship between architecture, society, and nature, creating spaces that foster communal living while harmonizing with their environment.",
+      "extended_winning_statement": "Riken Yamamoto's work is distinguished by its focus on urban living environments that encourage collaboration and interaction. His designs frequently integrate nature with architecture, emphasizing sustainability and creating meaningful communal spaces.",
+      "breakthrough_project": "Roppongi Hills Mori Tower",
+      "extended_critique_breakthrough_project": "The Roppongi Hills Mori Tower in Tokyo, Japan, completed in 2003, is a landmark project that highlights Yamamoto's vision of creating multi-use, urban environments. This 54-story building integrates offices, residences, and cultural facilities in a vertical city format, designed for urban coexistence and collaboration.",
+      "highest_budget_project": "Yokohama International Port Terminal",
+      "extended_critique_highest_budget_project": "Completed in 2002, the Yokohama International Port Terminal is a key example of Yamamoto's commitment to creating architectural forms that blend with their surroundings. This project integrates the flow of nature, using the terminal's roof as a public park, offering an organic fusion of public space and functionality.",
+      "personal_favorite_project": "Fussa Kodomo Art Center",
+      "extended_critique_personal_favorite_project": "The Fussa Kodomo Art Center, completed in 2017, is Yamamoto’s personal favorite due to its emphasis on education and creativity for children. The design encourages playful exploration, with fluid spaces and natural elements, fostering a connection between the building, its users, and the environment.",
+      "famous_quotes": [
+         "Architecture should facilitate a dialogue between people and their environment.",
+         "I believe that buildings can create new forms of community and change the way people live together.",
+         "In architecture, the structure must support not only the physical space but also the human relationships within it."
+      ]
+},
+   {
+      "name": "Jimi Wen",
+      "year": 2040,
+      "winning_statement": "The Pritzker Prize is awarded to (Wordless Unspoken) for its groundbreaking integration of traditional Chinese aesthetics and cutting-edge AI technology in architectural design. Spearheaded by Jimi Wen, this project transcends conventional architecture by translating philosophical ideologies into intricate 3D forms. Utilizing Large Language Models (LLMs), seamlessly merges form, meaning, and space, embodying principles of incompleteness, multifunctionality, abstraction, and interconnectedness.",
+      "extended_winning_statement": "Wordless Unspoken stands as a testament to the transformative potential of AI in architecture, demonstrating how advanced models can surpass traditional design teams in efficiency and innovation. This project not only redefines architectural practices but also sets a new paradigm by blending high-level conceptual work with AI-driven precision. For its visionary approach and profound impact on the architectural landscape, word less unspoken is a deserving recipient of the Pritzker Prize.",
+      "breakthrough_project": "Jimi‘s Home",
+      "extended_critique_breakthrough_project": "For moments, that I am, within this space, realities prior, to each moment, are feelings beyond it, and in it, and with momentum. Momentum is nothing, but the product of mass and velocity, of things, that are spatial, material, and over time, senses arrive, with their own directionality.To dwell means not to, go forward only in a straight line, but often looping back, in symmetry and of repetition. The very same periodicity: dawn to dusk, dusk to dawn; spring following, winter after winter. Through spaces, my movements are, like filtration, traversing along a maze, free; while others must embark, interface after interface, formatted relations, controlled coherence, invitations given, only sparingly.If anything is explained, by an architecture plan, it is the composition, of relations, attained. My clan, of materials’ position, with people, ordained, and by myself, the layman, encompassing superstition, within this plan, suspended. Architecture is differentiation, with respect to space, maybe material, sometimes visual; then selectively integrated, all but a limiting procedure, that approximates our inhabitatness. A unit of architecture is neither the form or the function of a space, but a lecture, on affective form, between relations, of the uninhibited. Like art, a vehicle for observation and reflection, architecture is not, quite just that. Adding more meaning and symbols to architecture does not make it any more architectural, nor is it any less, when the only direct interventions, are a matter of practicality. The difference in its matter of practicality is, that of all its encoding of everyday reality, and in doing so inevitably provides a format, to frame everyday moments.",
+      "highest_budget_project": "Jimi's Home",
+      "extended_critique_highest_budget_project": "I am, neither this nor that, if only momentary impulses, yet it flickers perpetually. An emptiness, wanting to be whole, buffing against decaying fragility, sheltering thy sheen is ever so needed. Both intimidating and intimate, interfaces, divides the interior, the exterior, yet it also connects; the acknowledgement of my traces, is sought, by being bare, but not fully naked; oppositions, in theory, cooked into format.If interfaces are commodities, why can they not delight? Forms are never non-functional, their utility is their beauty. Envisioning, a transfiguration; is the fulfilment of, above-described idealizations, rather than a recreation of, classified style through reduction. Please accept my invitation, come as you are, and see through the man that I am, rather than the work I have done, in making a free man of myself, in as much as I have tried to explain.",
+      "personal_favorite_project": "Jimi's Home",
+      "extended_critique_personal_favorite_project": "The choices of presence and absence, solid and void, built and unbuilt, determines the locus of traces and erasures, such locus is inherently architecture.Growing up, the language, I spoke, read, wrote, consists of, pictograms and ideograms, visual pictorial, and visual abstract, leading towards radical-radical compounds. Fragments of functions, modulated across and in, dwelling, of presence and absence.Geometries outlining form, solids or voids, separating space for function, therefore meaning, is found in both form and function. Combining words together, a prose of dwelling is written.Dwell without structures, is to dwell away from home, as in the forms by dwelling, reveals it, inasmuch as traces and erasure, creating a figurative delineation, that is constrained, only, by our physical impedance.Finishedness and stability are not sufficiently the same, nor necessary orthogonal. Prefab and onsite bespoke, need not be discriminated against each other, since becoming commodities, from their original genesis, is just what we call progress.If my dwelling is read, please read it as it was written, rather than as people speak of it, or as it was spoken by others.",
+      "famous_quotes": [
+         "The 'Wordless Unspoken' architecture demo project brings Jimi Wen's philosophy to life, merging form, meaning, and space. The design integrates principles of incompleteness, multifunctionality, abstraction, and interconnectedness. I argue that well-trained LLMs can surpass traditional teams and hierarchy, replacing contemporary best practice with unmatched efficiency and innovation. Referencing Alan Turing’s insight that “if a machine is expected to be infallible, it cannot also be intelligent,” I assert that LLMs should mimic aesthetic intelligence rather than exhibit human-like intelligence. Even under the weak AI hypothesis, AI can significantly impact architectural practice, as demonstrated by the tuning of Large Multimodal Models (LMMs) in architectural modelling.",
+         "Like architecture, a vessel for, dwelling and rest, less nested, art is not, exactly that. Adding more conceptual nodes and experiential edges do not make it any more art. Nor is it any less, when the only reflections, are a matter of nomenclature. The reflections on your day, of another day, and in doing so inevitably reformat itself, to reframe such moment, that has already passed by.",
+         "Jimi Wen explains that AI reflects and amplifies human intention. The low guidance diffusion method strikes the balance by setting a framework but not restricting AI, allowing it to explore freely and capture deeper meanings. This method enables AI to pursue profound meanings without being confined to superficial likeness. This is akin to the concept from 思無字: “Writing does not exhaust words, words do not exhaust meaning, and meaning likewise does not exhaust characters that are generative in nature."
+      ]
+   }
+]

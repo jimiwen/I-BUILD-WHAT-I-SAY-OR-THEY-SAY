@@ -1,0 +1,1805 @@
+{
+    "triplets": [
+      {
+        "triplet_id": 1,
+        "concepts": ["Minimalism", "Innovation", "Functionality"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Donald Judd (Minimalism)",
+          "philosopher": "Ludwig Wittgenstein (Philosophy of Logic)"
+        },
+        "coinage": "Exacting Systems",
+        "description": "Judd’s rigorously simplified forms paired with Wittgenstein’s precision in language and systems suggest architecture that refines innovation through sharp, logical functional structures."
+      },
+      {
+        "triplet_id": 2,
+        "concepts": ["Minimalism", "Innovation", "Aesthetics"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Yayoi Kusama (Minimalism and Infinity)",
+          "philosopher": "Arthur Schopenhauer (Aesthetic Experience)"
+        },
+        "coinage": "Boundless Essence",
+        "description": "Kusama’s infinite patterns combined with Schopenhauer’s philosophy of aesthetic contemplation suggest architecture that innovates through vast, serene beauty."
+      },
+      {
+        "triplet_id": 3,
+        "concepts": ["Minimalism", "Innovation", "Contextual"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Contextual": "Regionalism"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Agnes Martin (Minimalism)",
+          "philosopher": "Michel Foucault (Space and Power)"
+        },
+        "coinage": "Silent Impact",
+        "description": "Martin’s subtle grid-based art combined with Foucault’s exploration of spatial power dynamics suggest architecture that uses innovative simplicity to shape place with quiet, yet profound, influence."
+      },
+      {
+        "triplet_id": 4,
+        "concepts": ["Minimalism", "Innovation", "Sustainability"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Michael Heizer (Land Art)",
+          "philosopher": "Arne Næss (Deep Ecology)"
+        },
+        "coinage": "Earth-Driven Design",
+        "description": "Heizer’s monumental earthworks paired with Næss’s environmental focus suggest architecture that balances minimalist innovation with the rhythms and needs of the earth."
+      },
+      {
+        "triplet_id": 5,
+        "concepts": ["Minimalism", "Innovation", "Tradition"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Kazimir Malevich (Suprematism)",
+          "philosopher": "Hans-Georg Gadamer (Hermeneutics)"
+        },
+        "coinage": "Timeless Reductions",
+        "description": "Malevich’s abstract minimalism paired with Gadamer’s theory of interpreting tradition suggests architecture that reinvents cultural heritage through essential, abstract forms."
+      },
+      {
+        "triplet_id": 6,
+        "concepts": ["Minimalism", "Innovation", "Avant-Garde"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Ad Reinhardt (Minimalist Painting)",
+          "philosopher": "Maurice Blanchot (The Infinite)"
+        },
+        "coinage": "Infinite Boundaries",
+        "description": "Reinhardt’s pursuit of absolute minimalism combined with Blanchot’s exploration of the infinite suggests architecture that challenges and expands the boundaries of form, taking simplicity to radical ends."
+      },
+      {
+        "triplet_id": 7,
+        "concepts": ["Minimalism", "Innovation", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Carl Andre (Minimalist Sculpture)",
+          "philosopher": "Immanuel Kant (Transcendental Idealism)"
+        },
+        "coinage": "Enduring Forms",
+        "description": "Andre’s modular minimalist structures paired with Kant’s universal aesthetic theory suggest architecture that explores timeless, innovative forms, capable of resonating across cultures and contexts."
+      },
+      {
+        "triplet_id": 8,
+        "concepts": ["Minimalism", "Innovation", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Innovation": "Novelty",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Eva Hesse (Minimalist Sculpture)",
+          "philosopher": "Henri Bergson (Vitalism)"
+        },
+        "coinage": "Breathing Spaces",
+        "description": "Hesse’s minimalist yet tactile approach paired with Bergson’s focus on life energy suggests architecture that innovates by fusing simplicity with organic vitality, creating forms that feel alive."
+      },
+      {
+        "triplet_id": 9,
+        "concepts": ["Minimalism", "Functionality", "Aesthetics"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Aesthetics": "Beauty"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Ellsworth Kelly (Minimalism and Color Field)",
+          "philosopher": "David Hume (Empiricism)"
+        },
+        "coinage": "Pure Balance",
+        "description": "Kelly’s exploration of color and shape combined with Hume’s focus on direct experience suggests architecture that achieves a harmonious balance between functionality and simple, elegant beauty."
+      },
+      {
+        "triplet_id": 10,
+        "concepts": ["Minimalism", "Functionality", "Contextual"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Contextual": "Regionalism"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Richard Tuttle (Minimalist Art)",
+          "philosopher": "Simone Weil (Attention and Rootedness)"
+        },
+        "coinage": "Rooted Simplicity",
+        "description": "Tuttle’s quiet, subtle forms paired with Weil’s focus on presence and attention suggest architecture that achieves precise functionality with a deep sensitivity to the specific needs of place and context."
+      },
+      {
+        "triplet_id": 11,
+        "concepts": ["Minimalism", "Functionality", "Sustainability"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Robert Morris (Minimalism)",
+          "philosopher": "Hans Jonas (Ethics of Responsibility)"
+        },
+        "coinage": "Conscious Efficiency",
+        "description": "Morris’s reduction of forms to their essence paired with Jonas’s focus on ethical responsibility suggests architecture that operates efficiently while prioritizing long-term ecological sustainability."
+      },
+      {
+        "triplet_id": 12,
+        "concepts": ["Minimalism", "Functionality", "Tradition"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Agnes Martin (Minimalism)",
+          "philosopher": "Edmund Burke (The Sublime and the Beautiful)"
+        },
+        "coinage": "Quiet Reverence",
+        "description": "Martin’s tranquil minimalism paired with Burke’s focus on tradition and beauty suggests architecture that operates efficiently while maintaining a quiet reverence for cultural continuity and aesthetic serenity."
+      },
+      {
+        "triplet_id": 13,
+        "concepts": ["Minimalism", "Functionality", "Avant-Garde"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Robert Ryman (White Paintings)",
+          "philosopher": "Theodor Adorno (Aesthetic Theory)"
+        },
+        "coinage": "Radical Clarity",
+        "description": "Ryman’s minimalist exploration of white paired with Adorno’s critical theory suggests architecture that strips functionality to its most radical, experimental core, revealing clarity in design."
+      },
+      {
+        "triplet_id": 14,
+        "concepts": ["Minimalism", "Functionality", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "John McCracken (Minimalist Sculpture)",
+          "philosopher": "John Rawls (Theory of Justice)"
+        },
+        "coinage": "Equal Proportions",
+        "description": "McCracken’s use of monolithic, reflective structures paired with Rawls’s ideas on justice suggest architecture that is functional, fair, and universally appealing through minimalist, balanced forms."
+      },
+      {
+        "triplet_id": 15,
+        "concepts": ["Minimalism", "Functionality", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Functionality": "Efficiency",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Fred Sandback (Minimalist Sculpture)",
+          "philosopher": "James Lovelock (Gaia Theory)"
+        },
+        "coinage": "Organic Tension",
+        "description": "Sandback’s linear, spatial explorations paired with Lovelock’s holistic view of the earth suggest architecture that balances minimalism with the flowing complexity of natural, organic forms."
+      },
+      {
+        "triplet_id": 16,
+        "concepts": ["Minimalism", "Aesthetics", "Contextual"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Isamu Noguchi (Minimalist Sculpture)",
+          "philosopher": "Martin Heidegger (Dwelling and Being)"
+        },
+        "coinage": "Grounded Elegance",
+        "description": "Noguchi’s use of simple, organic forms paired with Heidegger’s philosophy of place and dwelling suggests architecture that marries beauty and minimalism with a profound sense of belonging to its environment."
+      },
+      {
+        "triplet_id": 17,
+        "concepts": ["Minimalism", "Aesthetics", "Sustainability"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "James Turrell (Light and Space Art)",
+          "philosopher": "Henry David Thoreau (Naturalism)"
+        },
+        "coinage": "Luminal Harmony",
+        "description": "Turrell’s exploration of light paired with Thoreau’s deep connection to nature suggests architecture that uses minimalist beauty and natural light to create harmonious, environmentally conscious spaces."
+      },
+      {
+        "triplet_id": 18,
+        "concepts": ["Minimalism", "Aesthetics", "Tradition"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Aesthetics": "Beauty",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Bridget Riley (Op Art)",
+          "philosopher": "Hans-Georg Gadamer (Hermeneutics of Tradition)"
+        },
+        "coinage": "Structured Heritage",
+        "description": "Riley’s exploration of optical patterns paired with Gadamer’s focus on interpreting tradition suggests architecture that creates visually stimulating, minimalist beauty, while honoring and reinterpreting cultural legacies."
+      },
+      {
+        "triplet_id": 19,
+        "concepts": ["Minimalism", "Aesthetics", "Avant-Garde"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Aesthetics": "Beauty",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Barnett Newman (Abstract Expressionism)",
+          "philosopher": "Gilles Deleuze (Difference and Repetition)"
+        },
+        "coinage": "Untamed Lines",
+        "description": "Newman’s vast color fields paired with Deleuze’s theory of difference suggest architecture that pushes minimal beauty into experimental forms, continuously exploring new possibilities in space and form."
+      },
+      {
+        "triplet_id": 20,
+        "concepts": ["Minimalism", "Aesthetics", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Aesthetics": "Beauty",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Yves Klein (Monochrome Blue)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Absolute Essence",
+        "description": "Klein’s pursuit of the immaterial and monochromatic paired with Plato’s ideal forms suggest architecture that captures the essence of timeless beauty through minimal, universally resonant forms."
+      },
+      {
+        "triplet_id": 21,
+        "concepts": ["Minimalism", "Aesthetics", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Aesthetics": "Beauty",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Donald Judd (Minimalism)",
+          "philosopher": "Baruch Spinoza (Philosophy of Nature)"
+        },
+        "coinage": "Natural Order",
+        "description": "Judd’s precise minimalism paired with Spinoza’s exploration of nature suggests architecture that harmonizes pure form with organic rhythms, creating spaces that resonate with the inherent logic of natural systems."
+      },
+      {
+        "triplet_id": 22,
+        "concepts": ["Minimalism", "Contextual", "Sustainability"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Walter De Maria (Land Art)",
+          "philosopher": "Aldo Leopold (Land Ethic)"
+        },
+        "coinage": "Local Pulse",
+        "description": "De Maria’s large-scale environmental interventions paired with Leopold’s environmental ethics suggest architecture that engages deeply with the regional landscape, creating sustainable designs attuned to local ecologies."
+      },
+      {
+        "triplet_id": 23,
+        "concepts": ["Minimalism", "Contextual", "Tradition"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Richard Tuttle (Minimalist Art)",
+          "philosopher": "Confucius (Harmony and Tradition)"
+        },
+        "coinage": "Rooted Harmony",
+        "description": "Tuttle’s quiet minimalism paired with Confucius’s focus on balance and tradition suggests architecture that integrates minimal design with the stability of cultural roots, harmonizing regional context with long-standing traditions."
+      },
+      {
+        "triplet_id": 24,
+        "concepts": ["Minimalism", "Contextual", "Avant-Garde"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Contextual": "Regionalism",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Eva Hesse (Minimalist Sculpture)",
+          "philosopher": "Jean-Paul Sartre (Existentialism)"
+        },
+        "coinage": "Subtle Disruptions",
+        "description": "Hesse’s experimental approach to minimalism paired with Sartre’s existential philosophy suggests architecture that pushes boundaries through subtle interventions, creating spaces that challenge conventional ideas of place and function."
+      },
+      {
+        "triplet_id": 25,
+        "concepts": ["Minimalism", "Contextual", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Contextual": "Regionalism",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Agnes Martin (Minimalism)",
+          "philosopher": "Immanuel Kant (Aesthetic Judgment)"
+        },
+        "coinage": "Universal Precision",
+        "description": "Martin’s serene, grid-like compositions paired with Kant’s universality in aesthetics suggest architecture that combines regional specificity with minimalist forms that resonate on a universal scale."
+      },
+      {
+        "triplet_id": 26,
+        "concepts": ["Minimalism", "Contextual", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Contextual": "Regionalism",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Anne Truitt (Minimalist Sculpture)",
+          "philosopher": "Rachel Carson (Environmentalism)"
+        },
+        "coinage": "Living Geometry",
+        "description": "Truitt’s minimalist approach to form paired with Carson’s environmental ethics suggests architecture that embraces natural forms while remaining rooted in minimalist and regionally specific designs."
+      },
+      {
+        "triplet_id": 27,
+        "concepts": ["Minimalism", "Sustainability", "Tradition"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Richard Serra (Minimalist Sculpture)",
+          "philosopher": "Alasdair MacIntyre (Virtue Ethics)"
+        },
+        "coinage": "Lasting Stewardship",
+        "description": "Serra’s monumental, minimal sculptures paired with MacIntyre’s focus on tradition and virtue suggest architecture that honors cultural roots while ensuring ecological responsibility and sustainability."
+      },
+      {
+        "triplet_id": 28,
+        "concepts": ["Minimalism", "Sustainability", "Avant-Garde"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Donald Judd (Minimalism)",
+          "philosopher": "Bruno Latour (Actor-Network Theory)"
+        },
+        "coinage": "Interwoven Forces",
+        "description": "Judd’s minimalist geometries paired with Latour’s theory of interconnected networks suggest architecture that merges simplicity with sustainability, creating spaces that respond to complex social and environmental systems."
+      },
+      {
+        "triplet_id": 29,
+        "concepts": ["Minimalism", "Sustainability", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Sustainability": "Eco-friendliness",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Agnes Martin (Minimalism)",
+          "philosopher": "John Stuart Mill (Utilitarianism)"
+        },
+        "coinage": "Equitable Horizons",
+        "description": "Martin’s calm, geometric art paired with Mill’s utilitarian principles suggest architecture that is minimalist and sustainable, balancing universal functionality with ethical concerns for the environment."
+      },
+      {
+        "triplet_id": 30,
+        "concepts": ["Minimalism", "Sustainability", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Sustainability": "Eco-friendliness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Michael Heizer (Land Art)",
+          "philosopher": "Aldo Leopold (Land Ethic)"
+        },
+        "coinage": "Grounded Balance",
+        "description": "Heizer’s large-scale earthworks paired with Leopold’s ecological philosophy suggest architecture that honors the land through minimalist interventions, creating a sustainable relationship between form and nature."
+      },
+      {
+        "triplet_id": 31,
+        "concepts": ["Minimalism", "Tradition", "Avant-Garde"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Yves Klein (Monochrome Art)",
+          "philosopher": "Friedrich Nietzsche (Transvaluation of Values)"
+        },
+        "coinage": "Reframing Boundaries",
+        "description": "Klein’s radical, minimal use of color paired with Nietzsche’s challenge to traditional values suggests architecture that redefines tradition through experimental, minimalist lenses."
+      },
+      {
+        "triplet_id": 32,
+        "concepts": ["Minimalism", "Tradition", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Dan Flavin (Light Art)",
+          "philosopher": "Hannah Arendt (Human Condition)"
+        },
+        "coinage": "Enduring Illumination",
+        "description": "Flavin’s use of minimal light sculptures paired with Arendt’s exploration of the human condition suggests architecture that illuminates timeless cultural ideas through the innovative use of light and space."
+      },
+      {
+        "triplet_id": 33,
+        "concepts": ["Minimalism", "Tradition", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Tradition": "Cultural Continuity",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Donald Judd (Minimalism)",
+          "philosopher": "Albert Schweitzer (Reverence for Life)"
+        },
+        "coinage": "Harmonious Structures",
+        "description": "Judd’s minimalist forms paired with Schweitzer’s focus on life and ethics suggest architecture that is both rooted in cultural tradition and deeply attuned to the rhythms of nature."
+      },
+      {
+        "triplet_id": 34,
+        "concepts": ["Minimalism", "Avant-Garde", "Universalism"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Barnett Newman (Abstract Expressionism)",
+          "philosopher": "Ludwig Wittgenstein (Language Games)"
+        },
+        "coinage": "Uncharted Paths",
+        "description": "Newman’s large-scale minimalist art paired with Wittgenstein’s exploration of language suggests architecture that pushes minimalism toward radical experimentation while achieving universal resonance."
+      },
+      {
+        "triplet_id": 35,
+        "concepts": ["Minimalism", "Avant-Garde", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Eva Hesse (Minimalism)",
+          "philosopher": "Maurice Merleau-Ponty (Embodied Perception)"
+        },
+        "coinage": "Breathing Surfaces",
+        "description": "Hesse’s tactile, minimalist forms paired with Merleau-Ponty’s focus on perception suggest architecture that blends experimental simplicity with natural forms, creating spaces that feel organic and alive."
+      },
+      {
+        "triplet_id": 36,
+        "concepts": ["Minimalism", "Universalism", "Organic"],
+        "context": {
+          "Minimalism": "Simplicity",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Sol LeWitt (Minimalism)",
+          "philosopher": "Benedict Spinoza (Ethics and Nature)"
+        },
+        "coinage": "Fluid Foundations",
+        "description": "LeWitt’s modular minimalist art paired with Spinoza’s philosophy of nature suggests architecture that explores universal forms while remaining rooted in the organic flow of life and the natural world."
+      },
+      {
+        "triplet_id": 37,
+        "concepts": ["Innovation", "Functionality", "Aesthetics"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Aesthetics": "Beauty"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Marcel Duchamp (Dadaism)",
+          "philosopher": "Edmund Burke (Sublime and Beautiful)"
+        },
+        "coinage": "Dynamic Poise",
+        "description": "Duchamp’s radical, functional interventions paired with Burke’s theory of beauty suggest architecture that balances cutting-edge design with functional grace, achieving a harmonious interplay between form and utility."
+      },
+      {
+        "triplet_id": 38,
+        "concepts": ["Innovation", "Functionality", "Contextual"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Contextual": "Regionalism"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Tinguely (Kinetic Art)",
+          "philosopher": "Martin Heidegger (Being and Space)"
+        },
+        "coinage": "Kinetic Dwellings",
+        "description": "Tinguely’s kinetic sculptures paired with Heidegger’s philosophy of space suggest architecture that innovates through movement and efficiency, responding dynamically to the cultural and environmental context of its place."
+      },
+      {
+        "triplet_id": 39,
+        "concepts": ["Innovation", "Functionality", "Sustainability"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Buckminster Fuller (Geodesic Domes)",
+          "philosopher": "Naomi Klein (Environmental Activism)"
+        },
+        "coinage": "Visionary Ecosystems",
+        "description": "Fuller’s structurally efficient, futuristic designs paired with Klein’s environmentalism suggest architecture that maximizes functionality while addressing global ecological concerns in a forward-thinking way."
+      },
+      {
+        "triplet_id": 40,
+        "concepts": ["Innovation", "Functionality", "Tradition"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Joseph Beuys (Social Sculpture)",
+          "philosopher": "Alasdair MacIntyre (Virtue Ethics)"
+        },
+        "coinage": "Ethical Designs",
+        "description": "Beuys’s concept of art as socially transformative, combined with MacIntyre’s ethical tradition, suggests architecture that innovates while maintaining strong ethical principles and cultural continuity."
+      },
+      {
+        "triplet_id": 41,
+        "concepts": ["Innovation", "Functionality", "Avant-Garde"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Tinguely (Kinetic Art)",
+          "philosopher": "Gilles Deleuze (Difference and Repetition)"
+        },
+        "coinage": "Mechanical Divergence",
+        "description": "Tinguely’s dynamic, kinetic sculptures paired with Deleuze’s philosophy of difference suggest architecture that blends innovation with functional fluidity, pushing the boundaries of traditional design."
+      },
+      {
+        "triplet_id": 42,
+        "concepts": ["Innovation", "Functionality", "Universalism"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Marcel Duchamp (Dada)",
+          "philosopher": "Immanuel Kant (Transcendental Idealism)"
+        },
+        "coinage": "Essential Forms",
+        "description": "Duchamp’s radical rethinking of art and function, paired with Kant’s universal aesthetic principles, suggests architecture that innovates through functional simplicity, achieving resonance across time and culture."
+      },
+      {
+        "triplet_id": 43,
+        "concepts": ["Innovation", "Functionality", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Functionality": "Efficiency",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Arp (Dada)",
+          "philosopher": "Baruch Spinoza (Ethics and Nature)"
+        },
+        "coinage": "Fluid Efficiency",
+        "description": "Arp’s organic, fluid forms paired with Spinoza’s natural philosophy suggest architecture that functions efficiently while integrating natural forms, creating a seamless flow between nature and innovation."
+      },
+      {
+        "triplet_id": 44,
+        "concepts": ["Innovation", "Aesthetics", "Contextual"],
+        "context": {
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Paul Klee (Abstract Art)",
+          "philosopher": "Michel Foucault (Power and Space)"
+        },
+        "coinage": "Coded Rhythms",
+        "description": "Klee’s abstract, rhythmic approach to form paired with Foucault’s ideas of space and power suggest architecture that innovates beauty while responding sensitively to the cultural and regional dynamics of place."
+      },
+      {
+        "triplet_id": 45,
+        "concepts": ["Innovation", "Aesthetics", "Sustainability"],
+        "context": {
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Olafur Eliasson (Environmental Art)",
+          "philosopher": "Arne Næss (Deep Ecology)"
+        },
+        "coinage": "Vital Horizons",
+        "description": "Eliasson’s immersive environmental art paired with Næss’s philosophy of deep ecology suggests architecture that innovates beauty through sustainability, engaging deeply with ecological systems and environmental consciousness."
+      },
+      {
+        "triplet_id": 46,
+        "concepts": ["Innovation", "Aesthetics", "Tradition"],
+        "context": {
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Georgia O’Keeffe (Organic Modernism)",
+          "philosopher": "Edmund Burke (Sublime)"
+        },
+        "coinage": "Graceful Lineage",
+        "description": "O’Keeffe’s organic, graceful forms paired with Burke’s ideas of beauty and the sublime suggest architecture that innovates aesthetically while remaining deeply rooted in the beauty of tradition."
+      },
+      {
+        "triplet_id": 47,
+        "concepts": ["Innovation", "Aesthetics", "Avant-Garde"],
+        "context": {
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Man Ray (Surrealism)",
+          "philosopher": "Maurice Blanchot (The Infinite)"
+        },
+        "coinage": "Infinite Reaches",
+        "description": "Man Ray’s surrealist and experimental approach to visual form paired with Blanchot’s focus on the unnameable infinite suggests architecture that pushes boundaries, creating spaces that transcend beauty into the experimental and limitless."
+      },
+      {
+        "triplet_id": 48,
+        "concepts": ["Innovation", "Aesthetics", "Universalism"],
+        "context": {
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Wassily Kandinsky (Abstract Art)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Harmonic Abstractions",
+        "description": "Kandinsky’s exploration of color and form paired with Plato’s theory of ideal forms suggests architecture that innovates beauty through abstract, timeless, and universally appealing designs."
+      },
+      {
+        "triplet_id": 49,
+        "concepts": ["Innovation", "Aesthetics", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Aesthetics": "Beauty",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Antoni Gaudí (Modernisme)",
+          "philosopher": "Ralph Waldo Emerson (Transcendentalism)"
+        },
+        "coinage": "Flowing Symmetry",
+        "description": "Gaudí’s innovative use of organic forms paired with Emerson’s transcendentalist philosophy suggests architecture that merges aesthetics and natural innovation, creating fluid and harmonious designs."
+      },
+      {
+        "triplet_id": 50,
+        "concepts": ["Innovation", "Contextual", "Sustainability"],
+        "context": {
+          "Innovation": "Novelty",
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Buckminster Fuller (Geodesic Design)",
+          "philosopher": "Rachel Carson (Environmental Activism)"
+        },
+        "coinage": "Symbiotic Structures",
+        "description": "Fuller’s structural innovation paired with Carson’s environmental philosophy suggests architecture that is regionally sensitive, ecologically conscious, and structurally innovative, fostering symbiosis between environment and design."
+      },
+      {
+        "triplet_id": 51,
+        "concepts": ["Innovation", "Contextual", "Tradition"],
+        "context": {
+          "Innovation": "Novelty",
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Diego Rivera (Muralism)",
+          "philosopher": "Confucius (Cultural Tradition)"
+        },
+        "coinage": "Cultural Reflections",
+        "description": "Rivera’s regional, historical murals paired with Confucius’s emphasis on tradition suggest architecture that innovates through regional and cultural forms while maintaining a respectful continuity with heritage."
+      },
+      {
+        "triplet_id": 52,
+        "concepts": ["Innovation", "Contextual", "Avant-Garde"],
+        "context": {
+          "Innovation": "Novelty",
+          "Contextual": "Regionalism",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Gordon Matta-Clark (Anarchitecture)",
+          "philosopher": "Jean Baudrillard (Simulacra and Hyperreality)"
+        },
+        "coinage": "Fractured Grounds",
+        "description": "Matta-Clark’s deconstruction of architectural norms paired with Baudrillard’s theories of hyperreality suggests architecture that disrupts the traditional fabric of space while remaining deeply connected to regional contexts."
+      },
+      {
+        "triplet_id": 53,
+        "concepts": ["Innovation", "Contextual", "Universalism"],
+        "context": {
+          "Innovation": "Novelty",
+          "Contextual": "Regionalism",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Mark Rothko (Abstract Expressionism)",
+          "philosopher": "Immanuel Kant (Moral Universalism)"
+        },
+        "coinage": "Eternal Context",
+        "description": "Rothko’s abstract, color-driven works paired with Kant’s moral philosophy suggest architecture that integrates regional specificity with timeless, universal principles of design and innovation."
+      },
+      {
+        "triplet_id": 54,
+        "concepts": ["Innovation", "Contextual", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Contextual": "Regionalism",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Dubuffet (Art Brut)",
+          "philosopher": "Jean-Jacques Rousseau (Natural Man)"
+        },
+        "coinage": "Rooted Forms",
+        "description": "Dubuffet’s raw, primal art paired with Rousseau’s naturalist philosophy suggests architecture that innovates through organic, untamed forms, grounded deeply in its regional environment."
+      },
+      {
+        "triplet_id": 55,
+        "concepts": ["Innovation", "Sustainability", "Tradition"],
+        "context": {
+          "Innovation": "Novelty",
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Shigeru Ban (Paper Structures)",
+          "philosopher": "Alasdair MacIntyre (Virtue Ethics)"
+        },
+        "coinage": "Eternal Responsibility",
+        "description": "Ban’s experimental use of sustainable materials paired with MacIntyre’s ethics suggests architecture that innovates with ecological responsibility while maintaining ties to traditional values."
+      },
+      {
+        "triplet_id": 56,
+        "concepts": ["Innovation", "Sustainability", "Avant-Garde"],
+        "context": {
+          "Innovation": "Novelty",
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Olafur Eliasson (Environmental Art)",
+          "philosopher": "Donna Haraway (Cyborg Theory)"
+        },
+        "coinage": "Hybrid Futures",
+        "description": "Eliasson’s environmental installations paired with Haraway’s theories of hybridity and posthumanism suggest architecture that innovates radically while integrating sustainability with avant-garde, futuristic approaches."
+      },
+      {
+        "triplet_id": 57,
+        "concepts": ["Innovation", "Sustainability", "Universalism"],
+        "context": {
+          "Innovation": "Novelty",
+          "Sustainability": "Eco-friendliness",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Andy Goldsworthy (Land Art)",
+          "philosopher": "John Stuart Mill (Utilitarianism)"
+        },
+        "coinage": "Lasting Impact",
+        "description": "Goldsworthy’s ephemeral yet nature-based sculptures paired with Mill’s utilitarian philosophy suggest architecture that innovates through sustainable practices while seeking to maximize the benefit for future generations."
+      },
+      {
+        "triplet_id": 58,
+        "concepts": ["Innovation", "Sustainability", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Sustainability": "Eco-friendliness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Anselm Kiefer (Neo-Expressionism)",
+          "philosopher": "James Lovelock (Gaia Theory)"
+        },
+        "coinage": "Vital Structures",
+        "description": "Kiefer’s emotionally charged landscapes paired with Lovelock’s Gaia theory suggest architecture that innovates through organic, ecologically attuned forms, creating sustainable and vital structures."
+      },
+      {
+        "triplet_id": 59,
+        "concepts": ["Innovation", "Tradition", "Avant-Garde"],
+        "context": {
+          "Innovation": "Novelty",
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Kazimir Malevich (Suprematism)",
+          "philosopher": "Friedrich Nietzsche (Will to Power)"
+        },
+        "coinage": "Radical Origins",
+        "description": "Malevich’s abstract geometry paired with Nietzsche’s challenge to conventional values suggests architecture that merges deep respect for tradition with bold, avant-garde innovations, pushing boundaries while honoring roots."
+      },
+      {
+        "triplet_id": 60,
+        "concepts": ["Innovation", "Tradition", "Universalism"],
+        "context": {
+          "Innovation": "Novelty",
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Paul Klee (Bauhaus and Abstraction)",
+          "philosopher": "Immanuel Kant (Universal Aesthetics)"
+        },
+        "coinage": "Harmonic Legacy",
+        "description": "Klee’s exploration of abstraction through Bauhaus paired with Kant’s focus on timeless universality suggests architecture that innovates while maintaining a harmonious connection to both tradition and eternal design principles."
+      },
+      {
+        "triplet_id": 61,
+        "concepts": ["Innovation", "Tradition", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Tradition": "Cultural Continuity",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Dubuffet (Art Brut)",
+          "philosopher": "Jean-Jacques Rousseau (Natural Man)"
+        },
+        "coinage": "Primal Forms",
+        "description": "Dubuffet’s raw, untamed approach to form paired with Rousseau’s natural philosophy suggests architecture that innovates while reconnecting to the organic, primitive roots of tradition and nature."
+      },
+      {
+        "triplet_id": 62,
+        "concepts": ["Innovation", "Avant-Garde", "Universalism"],
+        "context": {
+          "Innovation": "Novelty",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Yves Klein (Monochrome Art)",
+          "philosopher": "Gilles Deleuze (Difference and Repetition)"
+        },
+        "coinage": "Infinite Horizons",
+        "description": "Klein’s expansive exploration of the monochromatic combined with Deleuze’s philosophy of difference suggests architecture that continuously pushes the boundaries of avant-garde experimentation while achieving universal relevance."
+      },
+      {
+        "triplet_id": 63,
+        "concepts": ["Innovation", "Avant-Garde", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Joan Miró (Surrealism)",
+          "philosopher": "Henri Bergson (Vitalism)"
+        },
+        "coinage": "Living Dreamscapes",
+        "description": "Miró’s surreal, fluid forms combined with Bergson’s philosophy of life suggest architecture that blends organic forms with experimental creativity, creating spaces that feel alive and constantly in flux."
+      },
+      {
+        "triplet_id": 64,
+        "concepts": ["Innovation", "Universalism", "Organic"],
+        "context": {
+          "Innovation": "Novelty",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Henry Moore (Sculpture)",
+          "philosopher": "Baruch Spinoza (Philosophy of Nature)"
+        },
+        "coinage": "Enduring Growth",
+        "description": "Moore’s exploration of organic forms in sculpture paired with Spinoza’s focus on nature suggests architecture that merges innovation with the timeless rhythms of the natural world, creating forms that grow from universal principles."
+      },
+      {
+        "triplet_id": 65,
+        "concepts": ["Functionality", "Aesthetics", "Contextual"],
+        "context": {
+          "Functionality": "Practicality",
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Georgia O’Keeffe (Modernism)",
+          "philosopher": "Martin Heidegger (Being and Dwelling)"
+        },
+        "coinage": "Rooted Elegance",
+        "description": "O’Keeffe’s deep connection to the landscape combined with Heidegger’s philosophy of dwelling suggests architecture that harmonizes practical needs with beauty, firmly grounded in the specificity of place."
+      },
+      {
+        "triplet_id": 66,
+        "concepts": ["Functionality", "Aesthetics", "Sustainability"],
+        "context": {
+          "Functionality": "Practicality",
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Ansel Adams (Photography)",
+          "philosopher": "Rachel Carson (Environmentalism)"
+        },
+        "coinage": "Ecological Grace",
+        "description": "Adams’s striking depictions of nature combined with Carson’s environmental activism suggest architecture that balances function and beauty with a commitment to ecological sustainability, preserving natural elegance."
+      },
+      {
+        "triplet_id": 67,
+        "concepts": ["Functionality", "Aesthetics", "Tradition"],
+        "context": {
+          "Functionality": "Practicality",
+          "Aesthetics": "Beauty",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "John Singer Sargent (Portraiture)",
+          "philosopher": "Edmund Burke (Philosophy of the Sublime)"
+        },
+        "coinage": "Classical Refinement",
+        "description": "Sargent’s mastery of classical portraiture paired with Burke’s emphasis on beauty and tradition suggests architecture that blends functional precision with the timeless elegance of classical forms."
+      },
+      {
+        "triplet_id": 68,
+        "concepts": ["Functionality", "Aesthetics", "Avant-Garde"],
+        "context": {
+          "Functionality": "Practicality",
+          "Aesthetics": "Beauty",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Kazimir Malevich (Suprematism)",
+          "philosopher": "Theodor Adorno (Aesthetic Theory)"
+        },
+        "coinage": "Geometric Vision",
+        "description": "Malevich’s radical abstraction combined with Adorno’s critical theory suggests architecture that challenges traditional notions of beauty, merging functionality with avant-garde minimalism to create bold, visionary spaces."
+      },
+      {
+        "triplet_id": 69,
+        "concepts": ["Functionality", "Aesthetics", "Universalism"],
+        "context": {
+          "Functionality": "Practicality",
+          "Aesthetics": "Beauty",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Piet Mondrian (De Stijl)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Harmonic Grids",
+        "description": "Mondrian’s geometric abstraction combined with Plato’s focus on ideal forms suggests architecture that achieves universal beauty through precise, functional geometries, creating spaces that are timeless and harmonized."
+      },
+      {
+        "triplet_id": 70,
+        "concepts": ["Functionality", "Aesthetics", "Organic"],
+        "context": {
+          "Functionality": "Practicality",
+          "Aesthetics": "Beauty",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Arp (Dada and Biomorphism)",
+          "philosopher": "Aristotle (Form and Nature)"
+        },
+        "coinage": "Flowing Precision",
+        "description": "Arp’s playful, organic forms combined with Aristotle’s philosophy of form and function suggest architecture that achieves practical efficiency while embracing natural, flowing shapes."
+      },
+      {
+        "triplet_id": 71,
+        "concepts": ["Functionality", "Contextual", "Sustainability"],
+        "context": {
+          "Functionality": "Practicality",
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Christo and Jeanne-Claude (Environmental Art)",
+          "philosopher": "Aldo Leopold (Land Ethic)"
+        },
+        "coinage": "Ecological Imprint",
+        "description": "Christo and Jeanne-Claude’s monumental environmental works paired with Leopold’s ecological ethics suggest architecture that is practical and site-specific, with a deep commitment to sustainability and minimal environmental impact."
+      },
+      {
+        "triplet_id": 72,
+        "concepts": ["Functionality", "Contextual", "Tradition"],
+        "context": {
+          "Functionality": "Practicality",
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Grant Wood (Regionalism)",
+          "philosopher": "Confucius (Harmony and Tradition)"
+        },
+        "coinage": "Grounded Legacy",
+        "description": "Wood’s celebration of rural American life paired with Confucius’s philosophy of tradition suggests architecture that is functional and deeply connected to its regional context, preserving cultural continuity through practical design."
+      },
+      {
+        "triplet_id": 73,
+        "concepts": ["Functionality", "Contextual", "Avant-Garde"],
+        "context": {
+          "Functionality": "Practicality",
+          "Contextual": "Regionalism",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Robert Smithson (Land Art)",
+          "philosopher": "Michel Foucault (Heterotopia)"
+        },
+        "coinage": "Fragmented Landscapes",
+        "description": "Smithson’s site-specific interventions paired with Foucault’s concept of heterotopia suggest architecture that challenges traditional notions of space and function through experimental, regionally grounded interventions."
+      },
+      {
+        "triplet_id": 74,
+        "concepts": ["Functionality", "Contextual", "Universalism"],
+        "context": {
+          "Functionality": "Practicality",
+          "Contextual": "Regionalism",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "David Hockney (Pop Art)",
+          "philosopher": "Immanuel Kant (Aesthetic Universality)"
+        },
+        "coinage": "Enduring Vistas",
+        "description": "Hockney’s vivid depictions of everyday life paired with Kant’s philosophy of universal beauty suggest architecture that responds to its specific context while embodying universally timeless principles."
+      },
+      {
+        "triplet_id": 75,
+        "concepts": ["Functionality", "Contextual", "Organic"],
+        "context": {
+          "Functionality": "Practicality",
+          "Contextual": "Regionalism",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Alexander Calder (Kinetic Art)",
+          "philosopher": "Jean-Jacques Rousseau (Naturalism)"
+        },
+        "coinage": "Kinetic Harmony",
+        "description": "Calder’s dynamic, moving sculptures paired with Rousseau’s philosophy of nature suggest architecture that blends functional, site-specific designs with organic forms that move and change with the natural world."
+      },
+      {
+        "triplet_id": 76,
+        "concepts": ["Functionality", "Sustainability", "Tradition"],
+        "context": {
+          "Functionality": "Practicality",
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Edward Hopper (Realism)",
+          "philosopher": "Alasdair MacIntyre (Virtue Ethics)"
+        },
+        "coinage": "Stewardship in Motion",
+        "description": "Hopper’s focus on everyday life combined with MacIntyre’s ethical tradition suggests architecture that is sustainable and practical while maintaining strong connections to cultural traditions and ethical responsibility."
+      },
+      {
+        "triplet_id": 77,
+        "concepts": ["Functionality", "Sustainability", "Avant-Garde"],
+        "context": {
+          "Functionality": "Practicality",
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Joseph Beuys (Fluxus)",
+          "philosopher": "Bruno Latour (Actor-Network Theory)"
+        },
+        "coinage": "Interwoven Futures",
+        "description": "Beuys’s concept of socially engaged, experimental art paired with Latour’s theories of interconnected systems suggests architecture that blends sustainability with avant-garde experimentation, creating spaces that are part of broader ecological and social systems."
+      },
+      {
+        "triplet_id": 78,
+        "concepts": ["Functionality", "Sustainability", "Universalism"],
+        "context": {
+          "Functionality": "Practicality",
+          "Sustainability": "Eco-friendliness",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Mark Rothko (Color Field Painting)",
+          "philosopher": "John Stuart Mill (Utilitarianism)"
+        },
+        "coinage": "Unified Horizons",
+        "description": "Rothko’s immersive color fields paired with Mill’s utilitarian philosophy suggest architecture that balances simplicity, functionality, and sustainability while aiming to maximize the universal good through balanced, thoughtful designs."
+      },
+      {
+        "triplet_id": 79,
+        "concepts": ["Functionality", "Sustainability", "Organic"],
+        "context": {
+          "Functionality": "Practicality",
+          "Sustainability": "Eco-friendliness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Andy Goldsworthy (Land Art)",
+          "philosopher": "Henry David Thoreau (Transcendentalism)"
+        },
+        "coinage": "Vital Structures",
+        "description": "Goldsworthy’s use of natural materials paired with Thoreau’s focus on simple living suggests architecture that operates efficiently while embracing the natural environment, creating spaces that harmonize with the rhythms of the earth."
+      },
+      {
+        "triplet_id": 80,
+        "concepts": ["Functionality", "Tradition", "Avant-Garde"],
+        "context": {
+          "Functionality": "Practicality",
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Marcel Duchamp (Dadaism)",
+          "philosopher": "Friedrich Nietzsche (Transvaluation of Values)"
+        },
+        "coinage": "Cultural Upheaval",
+        "description": "Duchamp’s challenge to conventional art combined with Nietzsche’s philosophy of overturning values suggests architecture that reinvents functional forms through experimental disruption while maintaining a connection to cultural heritage."
+      },
+      {
+        "triplet_id": 81,
+        "concepts": ["Functionality", "Tradition", "Universalism"],
+        "context": {
+          "Functionality": "Practicality",
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Diego Rivera (Muralism)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Eternal Craft",
+        "description": "Rivera’s focus on historical and social narrative combined with Plato’s ideal forms suggests architecture that bridges traditional craftsmanship with universal, timeless design principles, honoring both past and future."
+      },
+      {
+        "triplet_id": 82,
+        "concepts": ["Functionality", "Tradition", "Organic"],
+        "context": {
+          "Functionality": "Practicality",
+          "Tradition": "Cultural Continuity",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Georgia O’Keeffe (Modernism)",
+          "philosopher": "Ralph Waldo Emerson (Transcendentalism)"
+        },
+        "coinage": "Organic Continuity",
+        "description": "O’Keeffe’s fluid, organic forms combined with Emerson’s nature philosophy suggest architecture that is functional and rooted in tradition while drawing deeply on organic, natural forms."
+      },
+      {
+        "triplet_id": 83,
+        "concepts": ["Functionality", "Avant-Garde", "Universalism"],
+        "context": {
+          "Functionality": "Practicality",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Kazimir Malevich (Suprematism)",
+          "philosopher": "Immanuel Kant (Transcendental Idealism)"
+        },
+        "coinage": "Boundless Logic",
+        "description": "Malevich’s geometric abstractions paired with Kant’s universal idealism suggest architecture that innovates through functional and avant-garde forms, while maintaining a timeless, universal appeal."
+      },
+      {
+        "triplet_id": 84,
+        "concepts": ["Functionality", "Avant-Garde", "Organic"],
+        "context": {
+          "Functionality": "Practicality",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Constantin Brâncuși (Abstract Sculpture)",
+          "philosopher": "Henri Bergson (Vitalism)"
+        },
+        "coinage": "Living Abstraction",
+        "description": "Brâncuși’s simplified organic forms paired with Bergson’s focus on life’s inherent energy suggest architecture that blends experimental abstraction with the living vitality of natural forms."
+      },
+      {
+        "triplet_id": 85,
+        "concepts": ["Functionality", "Universalism", "Organic"],
+        "context": {
+          "Functionality": "Practicality",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Barbara Hepworth (Sculpture)",
+          "philosopher": "Baruch Spinoza (Philosophy of Nature)"
+        },
+        "coinage": "Enduring Flow",
+        "description": "Hepworth’s abstract, flowing sculptures combined with Spinoza’s natural philosophy suggest architecture that is both practical and universal, drawing on the fluidity and permanence of nature."
+      },
+      {
+        "triplet_id": 86,
+        "concepts": ["Aesthetics", "Contextual", "Sustainability"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Claude Monet (Impressionism)",
+          "philosopher": "Aldo Leopold (Land Ethic)"
+        },
+        "coinage": "Impressionistic Ecology",
+        "description": "Monet’s attention to the changing effects of light and landscape paired with Leopold’s environmental ethics suggest architecture that is deeply responsive to local ecologies, creating beautiful, sustainable environments."
+      },
+      {
+        "triplet_id": 87,
+        "concepts": ["Aesthetics", "Contextual", "Tradition"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Gustav Klimt (Symbolism)",
+          "philosopher": "Confucius (Cultural Harmony)"
+        },
+        "coinage": "Symbolic Heritage",
+        "description": "Klimt’s opulent, symbolic artwork paired with Confucius’s focus on harmony and tradition suggests architecture that is regionally specific and richly decorated, honoring traditional forms of beauty."
+      },
+      {
+        "triplet_id": 88,
+        "concepts": ["Aesthetics", "Contextual", "Avant-Garde"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Joan Miró (Surrealism)",
+          "philosopher": "Jean-Paul Sartre (Existentialism)"
+        },
+        "coinage": "Fluid Expression",
+        "description": "Miró’s surrealist exploration of fluid forms paired with Sartre’s existential philosophy suggests architecture that pushes the boundaries of regional design, creating fluid, experimental spaces imbued with local meaning."
+      },
+      {
+        "triplet_id": 89,
+        "concepts": ["Aesthetics", "Contextual", "Universalism"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Wassily Kandinsky (Abstract Art)",
+          "philosopher": "Immanuel Kant (Aesthetic Judgment)"
+        },
+        "coinage": "Abstract Harmony",
+        "description": "Kandinsky’s exploration of color and abstraction combined with Kant’s universality of aesthetic judgment suggests architecture that creates timeless beauty rooted in both abstract forms and regional contexts."
+      },
+      {
+        "triplet_id": 90,
+        "concepts": ["Aesthetics", "Contextual", "Organic"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Contextual": "Regionalism",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Claude Lorrain (Landscape Painting)",
+          "philosopher": "Henry David Thoreau (Transcendentalism)"
+        },
+        "coinage": "Natural Elegance",
+        "description": "Lorrain’s idealized landscapes paired with Thoreau’s reverence for nature suggest architecture that finds beauty in the organic flow of nature, rooted in local landscapes and cultural traditions."
+      },
+      {
+        "triplet_id": 91,
+        "concepts": ["Aesthetics", "Sustainability", "Tradition"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "J.M.W. Turner (Romanticism)",
+          "philosopher": "Alasdair MacIntyre (Virtue Ethics)"
+        },
+        "coinage": "Enduring Majesty",
+        "description": "Turner’s dramatic landscapes paired with MacIntyre’s ethical focus on tradition suggest architecture that achieves lasting beauty and sustainability, anchored in ethical design and traditional values."
+      },
+      {
+        "triplet_id": 92,
+        "concepts": ["Aesthetics", "Sustainability", "Avant-Garde"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Salvador Dalí (Surrealism)",
+          "philosopher": "Donna Haraway (Cyborg Theory)"
+        },
+        "coinage": "Hybrid Dreams",
+        "description": "Dalí’s surrealist, fantastical visions combined with Haraway’s theories of posthumanism suggest architecture that blends beauty and sustainability with radical experimentation, exploring hybrid, futuristic forms."
+      },
+      {
+        "triplet_id": 93,
+        "concepts": ["Aesthetics", "Sustainability", "Universalism"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Anish Kapoor (Sculpture)",
+          "philosopher": "John Stuart Mill (Utilitarianism)"
+        },
+        "coinage": "Sculpted Balance",
+        "description": "Kapoor’s abstract sculptures paired with Mill’s focus on maximizing well-being suggest architecture that unites beauty with sustainability, aiming to create spaces that are both visually impactful and universally beneficial."
+      },
+      {
+        "triplet_id": 94,
+        "concepts": ["Aesthetics", "Sustainability", "Organic"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Sustainability": "Eco-friendliness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Henri Rousseau (Primitivism)",
+          "philosopher": "Aldo Leopold (Land Ethic)"
+        },
+        "coinage": "Primal Harmony",
+        "description": "Rousseau’s lush, untamed depictions of nature paired with Leopold’s environmental ethics suggest architecture that draws on raw, organic beauty while maintaining a deep commitment to ecological sustainability."
+      },
+      {
+        "triplet_id": 95,
+        "concepts": ["Aesthetics", "Tradition", "Avant-Garde"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Gustav Klimt (Symbolism)",
+          "philosopher": "Friedrich Nietzsche (Will to Power)"
+        },
+        "coinage": "Ornamental Revolution",
+        "description": "Klimt’s richly decorated, symbolic art paired with Nietzsche’s radical philosophy suggests architecture that merges traditional decorative beauty with avant-garde experimentation, breaking boundaries while celebrating heritage."
+      },
+      {
+        "triplet_id": 96,
+        "concepts": ["Aesthetics", "Tradition", "Universalism"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Michelangelo (Renaissance)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Classical Ideal",
+        "description": "Michelangelo’s mastery of classical forms paired with Plato’s philosophy of idealism suggests architecture that embodies timeless beauty, drawing on classical traditions while achieving universal appeal."
+      },
+      {
+        "triplet_id": 97,
+        "concepts": ["Aesthetics", "Tradition", "Organic"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Tradition": "Cultural Continuity",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "William Morris (Arts and Crafts)",
+          "philosopher": "Ralph Waldo Emerson (Transcendentalism)"
+        },
+        "coinage": "Crafted Spirit",
+        "description": "Morris’s dedication to handmade, organic forms paired with Emerson’s transcendental philosophy suggests architecture that merges traditional craftsmanship with natural, spiritual beauty."
+      },
+      {
+        "triplet_id": 98,
+        "concepts": ["Aesthetics", "Avant-Garde", "Universalism"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Mark Rothko (Color Field Painting)",
+          "philosopher": "Immanuel Kant (Aesthetic Judgment)"
+        },
+        "coinage": "Ethereal Boundaries",
+        "description": "Rothko’s exploration of color fields paired with Kant’s focus on aesthetic universality suggests architecture that pushes experimental beauty to the limits while achieving timeless, universally resonant spaces."
+      },
+      {
+        "triplet_id": 99,
+        "concepts": ["Aesthetics", "Avant-Garde", "Organic"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Yves Tanguy (Surrealism)",
+          "philosopher": "Henri Bergson (Vitalism)"
+        },
+        "coinage": "Surreal Vitality",
+        "description": "Tanguy’s dreamlike, organic forms paired with Bergson’s philosophy of life suggest architecture that blends avant-garde experimentation with the living, organic essence of nature, creating spaces that feel alive."
+      },
+      {
+        "triplet_id": 100,
+        "concepts": ["Aesthetics", "Universalism", "Organic"],
+        "context": {
+          "Aesthetics": "Beauty",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Henry Moore (Sculpture)",
+          "philosopher": "Baruch Spinoza (Ethics and Nature)"
+        },
+        "coinage": "Harmonic Flow",
+        "description": "Moore’s exploration of organic forms paired with Spinoza’s philosophy of nature suggests architecture that achieves universal beauty through the flowing, timeless forms of the natural world."
+      },
+      {
+        "triplet_id": 101,
+        "concepts": ["Contextual", "Sustainability", "Tradition"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Edward Hopper (Realism)",
+          "philosopher": "Confucius (Respect for Tradition)"
+        },
+        "coinage": "Sustained Roots",
+        "description": "Hopper’s focus on American life combined with Confucius’s emphasis on tradition suggests architecture that is regionally specific, ecologically conscious, and respectful of cultural continuity."
+      },
+      {
+        "triplet_id": 102,
+        "concepts": ["Contextual", "Sustainability", "Avant-Garde"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Christo and Jeanne-Claude (Environmental Art)",
+          "philosopher": "Gilles Deleuze (Rhizomatic Thinking)"
+        },
+        "coinage": "Radical Ecology",
+        "description": "Christo and Jeanne-Claude’s large-scale, site-specific works combined with Deleuze’s theory of interconnected networks suggest architecture that is experimental, regionally grounded, and environmentally sustainable."
+      },
+      {
+        "triplet_id": 103,
+        "concepts": ["Contextual", "Sustainability", "Universalism"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Anselm Kiefer (Neo-Expressionism)",
+          "philosopher": "Immanuel Kant (Moral Universalism)"
+        },
+        "coinage": "Global Legacy",
+        "description": "Kiefer’s focus on memory and history combined with Kant’s moral philosophy suggests architecture that integrates regional specificity with sustainable practices, creating a lasting, globally resonant impact."
+      },
+      {
+        "triplet_id": 104,
+        "concepts": ["Contextual", "Sustainability", "Organic"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Sustainability": "Eco-friendliness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Georgia O’Keeffe (Modernism)",
+          "philosopher": "Henry David Thoreau (Transcendentalism)"
+        },
+        "coinage": "Harmonized Wilderness",
+        "description": "O’Keeffe’s intimate landscapes paired with Thoreau’s philosophy of simple living suggest architecture that is deeply connected to its environment, integrating natural forms with sustainable, regionally appropriate design."
+      },
+      {
+        "triplet_id": 105,
+        "concepts": ["Contextual", "Tradition", "Avant-Garde"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Diego Rivera (Muralism)",
+          "philosopher": "Friedrich Nietzsche (Will to Power)"
+        },
+        "coinage": "Tradition in Flux",
+        "description": "Rivera’s socially conscious murals combined with Nietzsche’s emphasis on power and transformation suggest architecture that honors tradition while pushing forward, reshaping cultural forms in innovative ways."
+      },
+      {
+        "triplet_id": 106,
+        "concepts": ["Contextual", "Tradition", "Universalism"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Winslow Homer (Realism)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Timeless Landscape",
+        "description": "Homer’s focus on the American landscape paired with Plato’s theory of perfect forms suggests architecture that combines regional specificity with timeless ideals, creating spaces that are grounded in tradition yet universally resonant."
+      },
+      {
+        "triplet_id": 107,
+        "concepts": ["Contextual", "Tradition", "Organic"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Tradition": "Cultural Continuity",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Claude Lorrain (Landscape Painting)",
+          "philosopher": "Ralph Waldo Emerson (Nature)"
+        },
+        "coinage": "Natural Continuity",
+        "description": "Lorrain’s classical landscapes paired with Emerson’s reverence for nature suggest architecture that respects tradition while embracing the natural environment, creating harmonious spaces that reflect organic beauty."
+      },
+      {
+        "triplet_id": 108,
+        "concepts": ["Contextual", "Avant-Garde", "Universalism"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean-Michel Basquiat (Neo-Expressionism)",
+          "philosopher": "Gilles Deleuze (Difference and Repetition)"
+        },
+        "coinage": "Unbound Legacy",
+        "description": "Basquiat’s raw, expressive works paired with Deleuze’s philosophy of difference suggest architecture that breaks traditional boundaries while creating regionally specific and globally relevant designs."
+      },
+      {
+        "triplet_id": 109,
+        "concepts": ["Contextual", "Avant-Garde", "Organic"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Robert Smithson (Land Art)",
+          "philosopher": "Maurice Merleau-Ponty (Phenomenology)"
+        },
+        "coinage": "Living Grounds",
+        "description": "Smithson’s land art paired with Merleau-Ponty’s embodied perception suggests architecture that is deeply tied to its environment, integrating avant-garde experimentation with natural, lived experiences."
+      },
+      {
+        "triplet_id": 110,
+        "concepts": ["Contextual", "Universalism", "Organic"],
+        "context": {
+          "Contextual": "Regionalism",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Ansel Adams (Photography)",
+          "philosopher": "Baruch Spinoza (Ethics and Nature)"
+        },
+        "coinage": "Enduring Landscapes",
+        "description": "Adams’s iconic landscape photography paired with Spinoza’s philosophy of nature suggests architecture that integrates timeless design with organic, regionally inspired forms, creating spaces that resonate globally."
+      },
+      {
+        "triplet_id": 111,
+        "concepts": ["Sustainability", "Tradition", "Avant-Garde"],
+        "context": {
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Joseph Beuys (Fluxus)",
+          "philosopher": "Friedrich Nietzsche (Transvaluation of Values)"
+        },
+        "coinage": "Renewed Foundations",
+        "description": "Beuys’s experimental, socially engaged art combined with Nietzsche’s philosophy suggests architecture that is both sustainable and transformative, challenging traditional values while remaining grounded in cultural roots."
+      },
+      {
+        "triplet_id": 112,
+        "concepts": ["Sustainability", "Tradition", "Universalism"],
+        "context": {
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "William Blake (Romanticism)",
+          "philosopher": "Immanuel Kant (Moral Philosophy)"
+        },
+        "coinage": "Eternal Care",
+        "description": "Blake’s deeply spiritual art paired with Kant’s moral universalism suggests architecture that respects tradition while advancing sustainability for the common good, grounded in ethical responsibility."
+      },
+      {
+        "triplet_id": 113,
+        "concepts": ["Sustainability", "Tradition", "Organic"],
+        "context": {
+          "Sustainability": "Eco-friendliness",
+          "Tradition": "Cultural Continuity",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "John Constable (Romanticism)",
+          "philosopher": "Henry David Thoreau (Transcendentalism)"
+        },
+        "coinage": "Organic Legacy",
+        "description": "Constable’s pastoral landscapes combined with Thoreau’s reverence for nature suggest architecture that draws from tradition while embracing natural, sustainable principles, creating a balance between culture and the environment."
+      },
+      {
+        "triplet_id": 114,
+        "concepts": ["Sustainability", "Avant-Garde", "Universalism"],
+        "context": {
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Yves Klein (Monochrome Painting)",
+          "philosopher": "Jean-Paul Sartre (Existentialism)"
+        },
+        "coinage": "Existential Futures",
+        "description": "Klein’s minimalist, experimental art paired with Sartre’s existentialist philosophy suggests architecture that embraces avant-garde innovation while remaining ecologically sustainable and universally resonant."
+      },
+      {
+        "triplet_id": 115,
+        "concepts": ["Sustainability", "Avant-Garde", "Organic"],
+        "context": {
+          "Sustainability": "Eco-friendliness",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Olafur Eliasson (Environmental Art)",
+          "philosopher": "Maurice Merleau-Ponty (Phenomenology)"
+        },
+        "coinage": "Vital Landscapes",
+        "description": "Eliasson’s environmental installations paired with Merleau-Ponty’s focus on lived, embodied experiences suggest architecture that integrates sustainable practices with experimental, organic forms that engage the senses."
+      },
+      {
+        "triplet_id": 116,
+        "concepts": ["Sustainability", "Universalism", "Organic"],
+        "context": {
+          "Sustainability": "Eco-friendliness",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Andy Goldsworthy (Land Art)",
+          "philosopher": "Baruch Spinoza (Ethics and Nature)"
+        },
+        "coinage": "Harmonic Systems",
+        "description": "Goldsworthy’s integration of natural elements in art paired with Spinoza’s ethical approach to nature suggests architecture that creates timeless, sustainable spaces deeply attuned to organic, natural rhythms."
+      },
+      {
+        "triplet_id": 117,
+        "concepts": ["Tradition", "Avant-Garde", "Universalism"],
+        "context": {
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Marcel Duchamp (Dadaism)",
+          "philosopher": "Friedrich Nietzsche (Eternal Recurrence)"
+        },
+        "coinage": "Cyclic Disruption",
+        "description": "Duchamp’s challenge to traditional art norms paired with Nietzsche’s philosophy of eternal recurrence suggests architecture that questions and reinvents tradition through avant-garde experimentation, achieving timeless relevance."
+      },
+      {
+        "triplet_id": 118,
+        "concepts": ["Tradition", "Avant-Garde", "Organic"],
+        "context": {
+          "Tradition": "Cultural Continuity",
+          "Avant-Garde": "Experimental",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Constantin Brâncuși (Abstract Sculpture)",
+          "philosopher": "Jean-Jacques Rousseau (Natural Man)"
+        },
+        "coinage": "Primal Fusion",
+        "description": "Brâncuși’s abstract, organic sculptures paired with Rousseau’s philosophy of returning to nature suggest architecture that reimagines tradition through the lens of organic, avant-garde forms."
+      },
+      {
+        "triplet_id": 119,
+        "concepts": ["Tradition", "Universalism", "Organic"],
+        "context": {
+          "Tradition": "Cultural Continuity",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "William Morris (Arts and Crafts)",
+          "philosopher": "Plato (Theory of Forms)"
+        },
+        "coinage": "Crafted Timelessness",
+        "description": "Morris’s handcrafted designs paired with Plato’s idealism suggest architecture that bridges tradition and natural forms to create universally timeless spaces filled with purpose and beauty."
+      },
+      {
+        "triplet_id": 120,
+        "concepts": ["Avant-Garde", "Universalism", "Organic"],
+        "context": {
+          "Avant-Garde": "Experimental",
+          "Universalism": "Timelessness",
+          "Organic": "Natural Forms"
+        },
+        "artist_philosopher_pair": {
+          "artist": "Jean Arp (Dadaism)",
+          "philosopher": "Maurice Merleau-Ponty (Phenomenology)"
+        },
+        "coinage": "Fluid Realities",
+        "description": "Arp’s fluid, abstract forms paired with Merleau-Ponty’s focus on lived experience suggest architecture that explores organic, avant-garde designs while achieving timeless resonance through the interaction of form and space."
+      }
+    ]
+  }
+  
